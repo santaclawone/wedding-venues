@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<title>Wedding Venues — Ireland & UK</title>
+<title>Wedding Venues — Global</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
 <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
@@ -32,11 +32,14 @@ html,body,#map{height:100%;width:100%;font-family:'Segoe UI',system-ui,sans-seri
 <div id="info">
   <h2>💍 Wedding Venues</h2>
   <div class="stat" id="stats">Loading...</div>
-  <div class="stat" style="font-size:11px;color:#999">Sources: weddingsonline.ie, weddingdates.ie, weddingplanner.co.uk</div>
+  <div class="stat" style="font-size:11px;color:#999">Sources: weddingsonline.ie, weddingdates.ie, weddingplanner.co.uk, weddingvenues.com.au, weddingwire.ca, herecomestheguide.com</div>
   <div class="ctrls">
-    <button class="active" data-filter="all" onclick="filterVenues('all')">All</button>
+    <button class="active" data-filter="all" onclick="filterVenues('all')">🌍 All</button>
     <button data-filter="Ireland" onclick="filterVenues('Ireland')">🇮🇪 Ireland</button>
     <button data-filter="UK" onclick="filterVenues('UK')">🇬🇧 UK</button>
+    <button data-filter="USA" onclick="filterVenues('USA')">🇺🇸 USA</button>
+    <button data-filter="Australia" onclick="filterVenues('Australia')">🇦🇺 Australia</button>
+    <button data-filter="Canada" onclick="filterVenues('Canada')">🇨🇦 Canada</button>
   </div>
 </div>
 
@@ -45,7 +48,7 @@ html,body,#map{height:100%;width:100%;font-family:'Segoe UI',system-ui,sans-seri
 <script>
 let map, markers, venueData, allMarkers = [];
 
-map = L.map('map', { zoomSnap: 0.5, zoomControl: true }).setView([54.0, -5.0], 6.5);
+map = L.map('map', { zoomSnap: 0.5, zoomControl: true, worldCopyJump: true }).setView([30.0, 10.0], 3);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '&copy; <a href="https://osm.org/copyright">OSM</a>',
   maxZoom: 19
@@ -56,10 +59,13 @@ markers = L.markerClusterGroup({ maxClusterRadius: 50, spiderfyOnMaxZoom: true, 
 // Load data
 fetch('venues.json').then(r=>r.json()).then(data => {
   venueData = data;
-  document.getElementById('stats').textContent = `${data.length} venues • ${data.filter(v=>v.country==='Ireland').length} Ireland • ${data.filter(v=>v.country==='UK').length} UK`;
+  function venueCount(c) { return data.filter(v=>v.country===c).length; }
+  document.getElementById('stats').textContent = `${data.length} venues • 🇮🇪${venueCount('Ireland')} • 🇬🇧${venueCount('UK')} • 🇺🇸${venueCount('USA')} • 🇦🇺${venueCount('Australia')} • 🇨🇦${venueCount('Canada')}`;
   
   data.forEach((v,i) => {
-    const iconColor = v.country === 'Ireland' ? '#2e7d32' : '#1565c0';
+    const countryColors = {Ireland:'#2e7d32', UK:'#1565c0', USA:'#c62828', Australia:'#f57f17', Canada:'#6a1b9a'};
+const countryFlags = {Ireland:'🇮🇪', UK:'🇬🇧', USA:'🇺🇸', Australia:'🇦🇺', Canada:'🇨🇦'};
+    const iconColor = countryColors[v.country] || '#888';
     const icon = L.divIcon({
       html: `<div style="background:${iconColor};width:12px;height:12px;border-radius:50%;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.3)"></div>`,
       iconSize: [16,16], iconAnchor: [8,8], className: ''
@@ -73,7 +79,7 @@ fetch('venues.json').then(r=>r.json()).then(data => {
       : '';
     
     const popup = `<div class="popup">
-      <span class="tag ${v.country}">${v.country === 'Ireland' ? '🇮🇪' : '🇬🇧'} ${v.country}</span>
+      <span class="tag ${v.country}">${countryFlags[v.country]||''} ${v.country}</span>
       <h3>${v.hotel_name}</h3>
       <div class="detail">📍 ${v.location || v.county || ''}</div>
       ${w ? `<div class="detail">🌐 ${w}</div>` : ''}
@@ -98,7 +104,22 @@ function filterVenues(country) {
   markers.clearLayers();
   const filtered = country === 'all' ? allMarkers : allMarkers.filter(m => venueData[m._venueIdx].country === country);
   filtered.forEach(m => markers.addLayer(m));
-  document.getElementById('stats').textContent = `${filtered.length} venues${country!=='all'?` • ${country}`:''}`;
+  
+  const vd = venueData;
+  const cnt = country === 'all' ? vd.length : vd.filter(v=>v.country===country).length;
+  const textParts = [cnt + ' venues'];
+  if (country === 'all') {
+    ['Ireland','UK','USA','Australia','Canada'].filter(c=>vd.some(v=>v.country===c)).forEach(c => textParts.push(vd.filter(v=>v.country===c).length + ' ' + c));
+  }
+  document.getElementById('stats').textContent = textParts.join(' • ');
+  
+  // Fit bounds if not all
+  if (country !== 'all' && filtered.length > 0) {
+    const bounds = L.featureGroup(filtered).getBounds();
+    map.fitBounds(bounds, {padding: [30,30], maxZoom: 10});
+  } else if (country === 'all') {
+    map.setView([30, 10], 3);
+  }
 }
 </script>
 </body>

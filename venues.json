@@ -6589,5 +6589,1545 @@
     "country": "Ireland",
     "lat": 51.8492602,
     "lon": -8.3320808
+  },
+  {
+    "hotel_name": "Nedlands Yacht Club",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9943284,
+    "lon": 115.8127687
+  },
+  {
+    "hotel_name": "Dekker Centre",
+    "county": "Saskatchewan",
+    "country": "Canada",
+    "lat": 52.7606714,
+    "lon": -108.2661274
+  },
+  {
+    "hotel_name": "Bellvue",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 48.1456565,
+    "lon": -80.030967
+  },
+  {
+    "hotel_name": "Buckland Estate",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.0192954,
+    "lon": 115.7585513
+  },
+  {
+    "hotel_name": "InterContinental Sydney Double Bay",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8760147,
+    "lon": 151.2430457
+  },
+  {
+    "hotel_name": "Lynx Ridge Golf Club",
+    "county": "Alberta",
+    "country": "Canada",
+    "lat": 51.115117,
+    "lon": -114.2580053
+  },
+  {
+    "hotel_name": "Edward.S",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -38.0259948,
+    "lon": 145.3048466
+  },
+  {
+    "hotel_name": "Rendezvous Hotel Melbourne",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.818194,
+    "lon": 144.96362
+  },
+  {
+    "hotel_name": "Badlands Community Facility",
+    "county": "Alberta",
+    "country": "Canada",
+    "lat": 51.4671343,
+    "lon": -112.7059744
+  },
+  {
+    "hotel_name": "Paradise Banquet Hall",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.7912376,
+    "lon": -79.5225046
+  },
+  {
+    "hotel_name": "Wynnum Golf Club",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4471384,
+    "lon": 153.1616268
+  },
+  {
+    "hotel_name": "West Beach Pavilion",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8582156,
+    "lon": 144.9684327
+  },
+  {
+    "hotel_name": "Lakeside Pavilion",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -38.2011634,
+    "lon": 145.867274
+  },
+  {
+    "hotel_name": "Le Châteaubriand",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.6313844,
+    "lon": -73.5903374
+  },
+  {
+    "hotel_name": "Le Challenger",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.5128956,
+    "lon": -73.7120444
+  },
+  {
+    "hotel_name": "SOFITEL Sydney Wentworth",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8655042,
+    "lon": 151.2110194
+  },
+  {
+    "hotel_name": "Royal Queensland Yacht Squadron",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4604592,
+    "lon": 153.1906341
+  },
+  {
+    "hotel_name": "John M.S. Lecky UBC Boathouse",
+    "county": "British Columbia",
+    "country": "Canada",
+    "lat": 49.1796597,
+    "lon": -123.1442459
+  },
+  {
+    "hotel_name": "Aerial",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8243611,
+    "lon": 144.9504046
+  },
+  {
+    "hotel_name": "Hammonds Plains Community Centre",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 44.7523391,
+    "lon": -63.8259772
+  },
+  {
+    "hotel_name": "Covered Bridge Golf & Country Club",
+    "county": "New Brunswick",
+    "country": "Canada",
+    "lat": 46.302273,
+    "lon": -67.5490775
+  },
+  {
+    "hotel_name": "Historic Rivermill",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.9751043,
+    "lon": 153.251157
+  },
+  {
+    "hotel_name": "Millbrook Winery",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.349508,
+    "lon": 116.0499948
+  },
+  {
+    "hotel_name": "Southport Yacht Club",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.9736359,
+    "lon": 153.426643
+  },
+  {
+    "hotel_name": "University of New Brunswick Saint John",
+    "county": "New Brunswick",
+    "country": "Canada",
+    "lat": 45.3067926,
+    "lon": -66.086158
+  },
+  {
+    "hotel_name": "Zinc at Fed Square",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8182134,
+    "lon": 144.9702532
+  },
+  {
+    "hotel_name": "Kermandie",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -43.1601359,
+    "lon": 146.9514807
+  },
+  {
+    "hotel_name": "Manly Pavilion",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.7993231,
+    "lon": 151.2809435
+  },
+  {
+    "hotel_name": "Capella Sydney",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.6486153,
+    "lon": 150.9011794
+  },
+  {
+    "hotel_name": "Bridges Golf Course",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 49.7634064,
+    "lon": -97.5819774
+  },
+  {
+    "hotel_name": "Bel Acres Golf and Country Club",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 50.0381668,
+    "lon": -97.281295
+  },
+  {
+    "hotel_name": "Rawdon Golf Resort",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 46.057838,
+    "lon": -73.7002364
+  },
+  {
+    "hotel_name": "Hilton Adelaide",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.9291291,
+    "lon": 138.5987172
+  },
+  {
+    "hotel_name": "Rupert on Rupert",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8062522,
+    "lon": 144.9890147
+  },
+  {
+    "hotel_name": "Kooyonga Golf Club",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.9302843,
+    "lon": 138.5298806
+  },
+  {
+    "hotel_name": "Gardens House",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8299367,
+    "lon": 144.9781968
+  },
+  {
+    "hotel_name": "New Maryland Centre",
+    "county": "New Brunswick",
+    "country": "Canada",
+    "lat": 45.875741,
+    "lon": -66.6964689
+  },
+  {
+    "hotel_name": "Belvedere Golf Club",
+    "county": "Prince Edward Island",
+    "country": "Canada",
+    "lat": 46.2569375,
+    "lon": -63.1077256
+  },
+  {
+    "hotel_name": "Miramichi Curling Club",
+    "county": "New Brunswick",
+    "country": "Canada",
+    "lat": 47.0169437,
+    "lon": -65.5521836
+  },
+  {
+    "hotel_name": "DoubleTree by Hilton Hotels Darwin",
+    "county": "Northern Territory",
+    "country": "Australia",
+    "lat": -12.4608096,
+    "lon": 130.8361173
+  },
+  {
+    "hotel_name": "Carousel Albert Park",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8455661,
+    "lon": 144.9672526
+  },
+  {
+    "hotel_name": "Terrace Banquet Centre",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.8309991,
+    "lon": -79.5228778
+  },
+  {
+    "hotel_name": "Broadway Theatre",
+    "county": "Saskatchewan",
+    "country": "Canada",
+    "lat": 52.1183665,
+    "lon": -106.6563989
+  },
+  {
+    "hotel_name": "Loop Roof",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8121163,
+    "lon": 144.9721574
+  },
+  {
+    "hotel_name": "Four Seasons Hotel Sydney",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8616704,
+    "lon": 151.2076012
+  },
+  {
+    "hotel_name": "Cargo Hall",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8241835,
+    "lon": 144.950904
+  },
+  {
+    "hotel_name": "Sergeants' Mess",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8379384,
+    "lon": 151.257798
+  },
+  {
+    "hotel_name": "The Hotel Windsor",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8558432,
+    "lon": 144.9880957
+  },
+  {
+    "hotel_name": "Showtime Events Centre",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8239884,
+    "lon": 144.9488385
+  },
+  {
+    "hotel_name": "Glendale Golf and Country Club",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 49.8755872,
+    "lon": -97.3156959
+  },
+  {
+    "hotel_name": "Secret Harbour",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.4009024,
+    "lon": 115.7529313
+  },
+  {
+    "hotel_name": "Grey Rock Casino",
+    "county": "New Brunswick",
+    "country": "Canada",
+    "lat": 47.3733514,
+    "lon": -68.3061246
+  },
+  {
+    "hotel_name": "National Portrait Gallery",
+    "county": "Australian Capital Territory",
+    "country": "Australia",
+    "lat": -35.2998647,
+    "lon": 149.1338471
+  },
+  {
+    "hotel_name": "Port Melbourne Yacht Club",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8436433,
+    "lon": 144.9372302
+  },
+  {
+    "hotel_name": "Canyon Ski Resort",
+    "county": "Alberta",
+    "country": "Canada",
+    "lat": 52.3044558,
+    "lon": -113.682935
+  },
+  {
+    "hotel_name": "Mounts Bay Sailing Club",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9857721,
+    "lon": 115.8255995
+  },
+  {
+    "hotel_name": "Gunners' Barracks",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.836792,
+    "lon": 151.2583932
+  },
+  {
+    "hotel_name": "The Old Woolstore Apartment Hotel",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -42.8800681,
+    "lon": 147.3334873
+  },
+  {
+    "hotel_name": "Swaneset Bay Resort & Country Club",
+    "county": "British Columbia",
+    "country": "Canada",
+    "lat": 49.3060071,
+    "lon": -122.6597133
+  },
+  {
+    "hotel_name": "Royal Nova Scotia Yacht Squadron",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 44.6213703,
+    "lon": -63.5823565
+  },
+  {
+    "hotel_name": "Royal Canberra Golf Club",
+    "county": "Australian Capital Territory",
+    "country": "Australia",
+    "lat": -35.3044353,
+    "lon": 149.0865705
+  },
+  {
+    "hotel_name": "W Brisbane",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4704163,
+    "lon": 153.0218418
+  },
+  {
+    "hotel_name": "Katrine Steading",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.6160916,
+    "lon": 116.5618125
+  },
+  {
+    "hotel_name": "Pan Pacific Perth",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9591168,
+    "lon": 115.8683628
+  },
+  {
+    "hotel_name": "SAIT",
+    "county": "Alberta",
+    "country": "Canada",
+    "lat": 51.0631292,
+    "lon": -114.0878809
+  },
+  {
+    "hotel_name": "Windsor Yacht Club",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 42.3411313,
+    "lon": -82.9337909
+  },
+  {
+    "hotel_name": "West Lakes Golf Club",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.8705542,
+    "lon": 138.4990444
+  },
+  {
+    "hotel_name": "Landmark Restaurant",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.5706456,
+    "lon": 153.0626835
+  },
+  {
+    "hotel_name": "Northbridge Brewing Company",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9473853,
+    "lon": 115.8572839
+  },
+  {
+    "hotel_name": "Sandridge Estate",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -40.9417545,
+    "lon": 145.5985501
+  },
+  {
+    "hotel_name": "Vibe Hotel Melbourne Docklands",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8149646,
+    "lon": 144.9380092
+  },
+  {
+    "hotel_name": "Rydges Hobart",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -42.8669513,
+    "lon": 147.3156092
+  },
+  {
+    "hotel_name": "Customs House",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4654378,
+    "lon": 153.0310878
+  },
+  {
+    "hotel_name": "Nikola Estate",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.8539705,
+    "lon": 115.998808
+  },
+  {
+    "hotel_name": "InterContinental Sydney",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8760147,
+    "lon": 151.2430457
+  },
+  {
+    "hotel_name": "The Eglinton Grand",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.7043238,
+    "lon": -79.410504
+  },
+  {
+    "hotel_name": "Brookleigh Estate",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.7858091,
+    "lon": 116.0198769
+  },
+  {
+    "hotel_name": "Estate Vaucluse House",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8555494,
+    "lon": 151.2730714
+  },
+  {
+    "hotel_name": "Centennial Parklands",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -29.7425919,
+    "lon": 151.7523938
+  },
+  {
+    "hotel_name": "Centre Renaissance",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.5219057,
+    "lon": -73.607379
+  },
+  {
+    "hotel_name": "Redwoods Golf Course",
+    "county": "British Columbia",
+    "country": "Canada",
+    "lat": 49.168852,
+    "lon": -122.6171743
+  },
+  {
+    "hotel_name": "Chapel Farm Estate",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.8649191,
+    "lon": 116.0320796
+  },
+  {
+    "hotel_name": "Royal Freshwater Bay Yacht Club",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.0025247,
+    "lon": 115.7739373
+  },
+  {
+    "hotel_name": "La Distinction",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.8120746,
+    "lon": -73.7428259
+  },
+  {
+    "hotel_name": "Moore & Moore Fremantle",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.0562669,
+    "lon": 115.7447699
+  },
+  {
+    "hotel_name": "Hadley's Orient Hotel",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -42.8839946,
+    "lon": 147.3278593
+  },
+  {
+    "hotel_name": "Sheraton Grand Mirage Resort, Gold Coast",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.967086,
+    "lon": 153.4279958
+  },
+  {
+    "hotel_name": "North Lakes Hotel",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.2364511,
+    "lon": 153.0196393
+  },
+  {
+    "hotel_name": "The Bayview",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.4838945,
+    "lon": 151.3246255
+  },
+  {
+    "hotel_name": "Petersham Town Hall",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8949598,
+    "lon": 151.1575976
+  },
+  {
+    "hotel_name": "Perth City Farm",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9506339,
+    "lon": 115.8707258
+  },
+  {
+    "hotel_name": "Southwood Golf & Country Club",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 49.7530378,
+    "lon": -97.1561775
+  },
+  {
+    "hotel_name": "Deckhouse",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8412547,
+    "lon": 151.1737244
+  },
+  {
+    "hotel_name": "Hotel Kurrajong Canberra",
+    "county": "Australian Capital Territory",
+    "country": "Australia",
+    "lat": -35.3075211,
+    "lon": 149.134539
+  },
+  {
+    "hotel_name": "Riverlife",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4745605,
+    "lon": 153.0344906
+  },
+  {
+    "hotel_name": "Mississauga Grand",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.5802744,
+    "lon": -79.6473829
+  },
+  {
+    "hotel_name": "Fredericton Convention Centre",
+    "county": "New Brunswick",
+    "country": "Canada",
+    "lat": 45.9601524,
+    "lon": -66.6376607
+  },
+  {
+    "hotel_name": "Donato Reception Centre",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.8733048,
+    "lon": 138.5551806
+  },
+  {
+    "hotel_name": "Scotswood Links",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 49.6773089,
+    "lon": -98.0174706
+  },
+  {
+    "hotel_name": "Clarendon Arms",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -41.5708419,
+    "lon": 147.2493463
+  },
+  {
+    "hotel_name": "Como House & Garden",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8378966,
+    "lon": 145.0039183
+  },
+  {
+    "hotel_name": "Coogee Bay Hotel",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.9212992,
+    "lon": 151.2556258
+  },
+  {
+    "hotel_name": "National Gallery of Victoria",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8229117,
+    "lon": 144.9686548
+  },
+  {
+    "hotel_name": "Club Roma",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.1268855,
+    "lon": -79.2723548
+  },
+  {
+    "hotel_name": "Sage",
+    "county": "British Columbia",
+    "country": "Canada",
+    "lat": 49.1709863,
+    "lon": -123.0717162
+  },
+  {
+    "hotel_name": "Le Windsor",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.4988839,
+    "lon": -73.5716242
+  },
+  {
+    "hotel_name": "Tsawwassen Springs",
+    "county": "British Columbia",
+    "country": "Canada",
+    "lat": 49.0306959,
+    "lon": -123.0861785
+  },
+  {
+    "hotel_name": "Quarterhouse",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8198169,
+    "lon": 144.9522733
+  },
+  {
+    "hotel_name": "Chilliwack Golf Club",
+    "county": "British Columbia",
+    "country": "Canada",
+    "lat": 49.125749,
+    "lon": -122.0657588
+  },
+  {
+    "hotel_name": "Elm House",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.3312093,
+    "lon": 152.7605096
+  },
+  {
+    "hotel_name": "Dundee Resort & Golf Club",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 45.6955065,
+    "lon": -61.0777308
+  },
+  {
+    "hotel_name": "Hillstone St Lucia",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.5032143,
+    "lon": 152.9918332
+  },
+  {
+    "hotel_name": "Crowne Plaza Adelaide Mawson Lakes",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.8060765,
+    "lon": 138.6166914
+  },
+  {
+    "hotel_name": "Salt at The Elliot",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -35.53195,
+    "lon": 138.6812866
+  },
+  {
+    "hotel_name": "Granite Springs Golf Club",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 44.5402224,
+    "lon": -63.806352
+  },
+  {
+    "hotel_name": "Eatons Hill Hotel",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.3387719,
+    "lon": 152.9618935
+  },
+  {
+    "hotel_name": "Niakwa Country Club",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 49.8523961,
+    "lon": -97.0929122
+  },
+  {
+    "hotel_name": "Melbourne Town Hall",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8149155,
+    "lon": 144.9668486
+  },
+  {
+    "hotel_name": "Tradewinds Hotel",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.0417914,
+    "lon": 115.7606554
+  },
+  {
+    "hotel_name": "The Claremont Hotel",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9815138,
+    "lon": 115.7809485
+  },
+  {
+    "hotel_name": "Mount Lofty House",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.9866658,
+    "lon": 138.7093511
+  },
+  {
+    "hotel_name": "COAST Port Beach",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.0347172,
+    "lon": 115.7456687
+  },
+  {
+    "hotel_name": "Old Mill Toronto",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.6497091,
+    "lon": -79.4939345
+  },
+  {
+    "hotel_name": "The Calile Hotel",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4567668,
+    "lon": 153.0402873
+  },
+  {
+    "hotel_name": "Peppers Cradle Mountain Lodge",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -41.5950197,
+    "lon": 145.9277969
+  },
+  {
+    "hotel_name": "DoubleTree by Hilton Perth Northbridge",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.948339,
+    "lon": 115.8585029
+  },
+  {
+    "hotel_name": "Loft West End",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.479096,
+    "lon": 153.0125662
+  },
+  {
+    "hotel_name": "Establishment Bar",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.864137,
+    "lon": 151.2076285
+  },
+  {
+    "hotel_name": "The Gardens Club",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4775231,
+    "lon": 153.0305594
+  },
+  {
+    "hotel_name": "Digby Pines Golf Resort and Spa",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 44.6346571,
+    "lon": -65.7616488
+  },
+  {
+    "hotel_name": "Peppermint Bay",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -43.1586585,
+    "lon": 147.2456503
+  },
+  {
+    "hotel_name": "Hellenic Club of Canberra",
+    "county": "Australian Capital Territory",
+    "country": "Australia",
+    "lat": -35.3194777,
+    "lon": 149.097319
+  },
+  {
+    "hotel_name": "St Boniface Golf Club",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 49.8715536,
+    "lon": -97.0971402
+  },
+  {
+    "hotel_name": "Immigration Museum",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8191199,
+    "lon": 144.9603977
+  },
+  {
+    "hotel_name": "SEA LIFE Melbourne Aquarium",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8206509,
+    "lon": 144.9583468
+  },
+  {
+    "hotel_name": "The Tea Tree",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.8293981,
+    "lon": 138.7235828
+  },
+  {
+    "hotel_name": "The Sebel Mandurah",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.5283785,
+    "lon": 115.7173817
+  },
+  {
+    "hotel_name": "Sofitel Brisbane Central",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4655638,
+    "lon": 153.0258437
+  },
+  {
+    "hotel_name": "Burnt Orange - Mosman",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8286074,
+    "lon": 151.2599237
+  },
+  {
+    "hotel_name": "Bundaleer Rainforest Gardens",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4824813,
+    "lon": 152.9019442
+  },
+  {
+    "hotel_name": "Rokeby 100",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8058889,
+    "lon": 144.9883643
+  },
+  {
+    "hotel_name": "Saltram Wine Estate",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.4963902,
+    "lon": 139.0372451
+  },
+  {
+    "hotel_name": "Joondalup Resort",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.7490192,
+    "lon": 115.7516283
+  },
+  {
+    "hotel_name": "Brighton & Seacliff Yacht Club",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -35.0354605,
+    "lon": 138.5171768
+  },
+  {
+    "hotel_name": "Membertou Trade and Convention Centre",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 46.1209839,
+    "lon": -60.1924749
+  },
+  {
+    "hotel_name": "The Boat House",
+    "county": "Australian Capital Territory",
+    "country": "Australia",
+    "lat": -35.3044545,
+    "lon": 149.1504629
+  },
+  {
+    "hotel_name": "Mount Allison",
+    "county": "New Brunswick",
+    "country": "Canada",
+    "lat": 45.8993961,
+    "lon": -64.373099
+  },
+  {
+    "hotel_name": "Brisbane Powerhouse",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4690829,
+    "lon": 153.0543895
+  },
+  {
+    "hotel_name": "Glen Ewin Estate",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.8172705,
+    "lon": 138.7578761
+  },
+  {
+    "hotel_name": "Plaza Centre-Ville",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.258641,
+    "lon": -74.1282949
+  },
+  {
+    "hotel_name": "The Truffle Farm Australia",
+    "county": "Australian Capital Territory",
+    "country": "Australia",
+    "lat": -35.2250833,
+    "lon": 149.1940311
+  },
+  {
+    "hotel_name": "Caversham House",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.877904,
+    "lon": 115.9908236
+  },
+  {
+    "hotel_name": "Temple Gardens",
+    "county": "Saskatchewan",
+    "country": "Canada",
+    "lat": 50.3905798,
+    "lon": -105.5385495
+  },
+  {
+    "hotel_name": "Blackbird",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -17.01011,
+    "lon": 145.7301796
+  },
+  {
+    "hotel_name": "The Guild Inn Estate",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.7478595,
+    "lon": -79.191656
+  },
+  {
+    "hotel_name": "W Melbourne",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.808747,
+    "lon": 144.9238207
+  },
+  {
+    "hotel_name": "Q Station Harbourside",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8156317,
+    "lon": 151.2869035
+  },
+  {
+    "hotel_name": "Spicers Balfour Hotel",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4638304,
+    "lon": 153.040394
+  },
+  {
+    "hotel_name": "Royal Botanic Garden Sydney",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8627695,
+    "lon": 151.215711
+  },
+  {
+    "hotel_name": "Teller",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.7764028,
+    "lon": 144.9707804
+  },
+  {
+    "hotel_name": "St Andrews Conservatory",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8018716,
+    "lon": 144.974637
+  },
+  {
+    "hotel_name": "Royal on the Park",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4728303,
+    "lon": 153.0291163
+  },
+  {
+    "hotel_name": "Strathmere",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 45.1562133,
+    "lon": -75.7042089
+  },
+  {
+    "hotel_name": "Lloydminster Exhibition Association",
+    "county": "Saskatchewan",
+    "country": "Canada",
+    "lat": 53.291315,
+    "lon": -110.0018575
+  },
+  {
+    "hotel_name": "The Grand Victorian",
+    "county": "Prince Edward Island",
+    "country": "Canada",
+    "lat": 46.2180178,
+    "lon": -63.4929885
+  },
+  {
+    "hotel_name": "Rydges Adelaide",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.9359674,
+    "lon": 138.588955
+  },
+  {
+    "hotel_name": "Malin",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.7888903,
+    "lon": 144.9717061
+  },
+  {
+    "hotel_name": "Ashburn Golf Club",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 44.8160618,
+    "lon": -63.6553312
+  },
+  {
+    "hotel_name": "Athol Hall",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8476157,
+    "lon": 151.2453348
+  },
+  {
+    "hotel_name": "Rainforest Gardens",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.616596,
+    "lon": 153.2163939
+  },
+  {
+    "hotel_name": "Links Golf & Wellbeing",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.8751908,
+    "lon": 153.3495599
+  },
+  {
+    "hotel_name": "Hillarys Yacht Club",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.8218874,
+    "lon": 115.736199
+  },
+  {
+    "hotel_name": "Emporium Hotel",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4523573,
+    "lon": 153.0393037
+  },
+  {
+    "hotel_name": "Stella Restaurant",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.9193639,
+    "lon": 138.4938933
+  },
+  {
+    "hotel_name": "Brickendon Estate",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -41.6154235,
+    "lon": 147.1328322
+  },
+  {
+    "hotel_name": "Club Atwater",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.4813175,
+    "lon": -73.5783886
+  },
+  {
+    "hotel_name": "White Sands Estate",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -41.5747737,
+    "lon": 148.31177
+  },
+  {
+    "hotel_name": "Whitfords Brewing Company",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.7963456,
+    "lon": 115.7481639
+  },
+  {
+    "hotel_name": "voco Brisbane City Centre",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.4696408,
+    "lon": 153.0212435
+  },
+  {
+    "hotel_name": "Three Blue Ducks Rosebery",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.9168988,
+    "lon": 151.2021666
+  },
+  {
+    "hotel_name": "Kimpton Margot Sydney",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8751735,
+    "lon": 151.2077432
+  },
+  {
+    "hotel_name": "The Calgary Zoo",
+    "county": "Alberta",
+    "country": "Canada",
+    "lat": 51.0453731,
+    "lon": -114.0333084
+  },
+  {
+    "hotel_name": "Hunters Hill Sailing Club",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8423055,
+    "lon": 151.1714637
+  },
+  {
+    "hotel_name": "Dalewood Golf Club",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.9928585,
+    "lon": -78.2515598
+  },
+  {
+    "hotel_name": "Panama Dining Room",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.8019844,
+    "lon": 144.9834889
+  },
+  {
+    "hotel_name": "Deer Creek",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 46.4699942,
+    "lon": -80.2916479
+  },
+  {
+    "hotel_name": "The Mint",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8689429,
+    "lon": 151.2124305
+  },
+  {
+    "hotel_name": "Crowne Plaza Adelaide",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.8060765,
+    "lon": 138.6166914
+  },
+  {
+    "hotel_name": "Serafino McLaren Vale",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -35.2215039,
+    "lon": 138.5546371
+  },
+  {
+    "hotel_name": "Sandalford Wines",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.869958,
+    "lon": 115.9946151
+  },
+  {
+    "hotel_name": "Plaza Rive-Sud",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.4250177,
+    "lon": -73.4770201
+  },
+  {
+    "hotel_name": "National Museum Of Australia",
+    "county": "Australian Capital Territory",
+    "country": "Australia",
+    "lat": -35.292943,
+    "lon": 149.1213582
+  },
+  {
+    "hotel_name": "The Cruising Yacht Club of WA",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -32.2757318,
+    "lon": 115.7270498
+  },
+  {
+    "hotel_name": "Bathers' Pavilion",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8226617,
+    "lon": 151.2509331
+  },
+  {
+    "hotel_name": "Hyatt Regency Sydney",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8697031,
+    "lon": 151.2032829
+  },
+  {
+    "hotel_name": "Tailrace Centre",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -41.4206252,
+    "lon": 147.1116471
+  },
+  {
+    "hotel_name": "Parmelia Hilton Perth",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9545032,
+    "lon": 115.8532125
+  },
+  {
+    "hotel_name": "Centennial Homestead",
+    "county": "New South Wales",
+    "country": "Australia",
+    "lat": -33.8945472,
+    "lon": 151.2335026
+  },
+  {
+    "hotel_name": "The Beach House",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.861932,
+    "lon": 115.8228897
+  },
+  {
+    "hotel_name": "Observatory 23",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -34.3410158,
+    "lon": 138.6855091
+  },
+  {
+    "hotel_name": "Kanawaki Golf Club",
+    "county": "Quebec",
+    "country": "Canada",
+    "lat": 45.4008609,
+    "lon": -73.6633525
+  },
+  {
+    "hotel_name": "Sandstone Point Hotel",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.0767045,
+    "lon": 153.1403227
+  },
+  {
+    "hotel_name": "Conexus Arts Centre",
+    "county": "Saskatchewan",
+    "country": "Canada",
+    "lat": 50.4283256,
+    "lon": -104.5978341
+  },
+  {
+    "hotel_name": "The Ritz-Carlton, Perth",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9581543,
+    "lon": 115.8581201
+  },
+  {
+    "hotel_name": "Woodstock Farm",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -28.2684224,
+    "lon": 146.249334
+  },
+  {
+    "hotel_name": "DoubleTree by Hilton Perth Waterfront",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9593923,
+    "lon": 115.8592015
+  },
+  {
+    "hotel_name": "Bailey Brewing Co.",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.8126715,
+    "lon": 116.0002332
+  },
+  {
+    "hotel_name": "Fraserwood Hall",
+    "county": "Manitoba",
+    "country": "Canada",
+    "lat": 50.6396739,
+    "lon": -97.2090786
+  },
+  {
+    "hotel_name": "Lake Breeze Wines",
+    "county": "South Australia",
+    "country": "Australia",
+    "lat": -35.3192105,
+    "lon": 139.042425
+  },
+  {
+    "hotel_name": "Redland Bay Golf Club",
+    "county": "Queensland",
+    "country": "Australia",
+    "lat": -27.598848,
+    "lon": 153.2966243
+  },
+  {
+    "hotel_name": "Aloft Perth",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9558174,
+    "lon": 115.9059112
+  },
+  {
+    "hotel_name": "The Decoy Paddle Steamer",
+    "county": "Western Australia",
+    "country": "Australia",
+    "lat": -31.9710542,
+    "lon": 115.8538634
+  },
+  {
+    "hotel_name": "Club Wyndham Seven Mile Beach",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -42.8530018,
+    "lon": 147.5116816
+  },
+  {
+    "hotel_name": "The Atlas˚ Hotel",
+    "county": "Saskatchewan",
+    "country": "Canada",
+    "lat": 50.4130517,
+    "lon": -104.6168665
+  },
+  {
+    "hotel_name": "The Wilds",
+    "county": "Newfoundland and Labrador",
+    "country": "Canada",
+    "lat": 47.2192816,
+    "lon": -53.3285114
+  },
+  {
+    "hotel_name": "Atlantic School of Theology",
+    "county": "Nova Scotia",
+    "country": "Canada",
+    "lat": 44.626152,
+    "lon": -63.580561
+  },
+  {
+    "hotel_name": "Rydges Melbourne",
+    "county": "Victoria",
+    "country": "Australia",
+    "lat": -37.811201,
+    "lon": 144.9706806
+  },
+  {
+    "hotel_name": "Mississauga Convention Centre",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.6451811,
+    "lon": -79.7084197
+  },
+  {
+    "hotel_name": "The Doctor's House",
+    "county": "Ontario",
+    "country": "Canada",
+    "lat": 43.8435043,
+    "lon": -79.6291322
+  },
+  {
+    "hotel_name": "Willie Smith's Apple Shed",
+    "county": "Tasmania",
+    "country": "Australia",
+    "lat": -42.9878719,
+    "lon": 147.085393
   }
 ]
