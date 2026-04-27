@@ -950,7 +950,7 @@
     "county": "London",
     "location": "London",
     "hotel_website": "https://weddingplanner.hotelplanner.com",
-    "email": "",
+    "email": "info@countyarms.ie",
     "source_url": "",
     "country": "UK",
     "lat": 51.4499507,
@@ -1830,7 +1830,7 @@
     "county": "West Sussex",
     "location": "West Sussex",
     "hotel_website": "",
-    "email": "",
+    "email": "u003einfo@fitzleroibarn.co.uk",
     "source_url": "",
     "country": "UK",
     "lat": 50.9737006,
@@ -2468,7 +2468,7 @@
     "county": "Greater London",
     "location": "Greater London",
     "hotel_website": "",
-    "email": "",
+    "email": "lucy@luxuryweddings.co.uk",
     "source_url": "",
     "country": "UK",
     "lat": 51.5415476,
@@ -3859,5 +3859,2735 @@
     "country": "UK",
     "lat": 55.8606898,
     "lon": -3.0825636
+  },
+  {
+    "hotel_name": "Clayton Hotel",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.6605481,
+    "lon": -8.6369757
+  },
+  {
+    "hotel_name": "Arklow Bay Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.8030636,
+    "lon": -6.1432641
+  },
+  {
+    "hotel_name": "Aghadoe Heights Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0773975,
+    "lon": -9.5558495
+  },
+  {
+    "hotel_name": "Ashdown Park Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.6789285,
+    "lon": -6.28507
+  },
+  {
+    "hotel_name": "10 Bridge Street",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.1061865,
+    "lon": -9.7856065
+  },
+  {
+    "hotel_name": "Amber Springs Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.6681866,
+    "lon": -6.2900784
+  },
+  {
+    "hotel_name": "Ardgillan Castle",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.5864329,
+    "lon": -6.1598281
+  },
+  {
+    "hotel_name": "Abbeyglen Castle Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.4882687,
+    "lon": -10.0316713
+  },
+  {
+    "hotel_name": "Ballybeg House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.6876183,
+    "lon": -6.8154164
+  },
+  {
+    "hotel_name": "Ballynahinch Castle",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.4601144,
+    "lon": -9.8626894
+  },
+  {
+    "hotel_name": "Ballyteige Lodge",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 52.8945801,
+    "lon": -6.4022436
+  },
+  {
+    "hotel_name": "Asador",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3346347,
+    "lon": -6.2438075
+  },
+  {
+    "hotel_name": "Martinstown House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.703312,
+    "lon": -7.0431417
+  },
+  {
+    "hotel_name": "Abbey Hotel, Roscommon",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.6248585,
+    "lon": -8.1936712
+  },
+  {
+    "hotel_name": "Ard Ri House Hotel, Tuam",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.5272118,
+    "lon": -8.8517415
+  },
+  {
+    "hotel_name": "St Kyrans Country House",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 53.8242731,
+    "lon": -7.060636
+  },
+  {
+    "hotel_name": "Ballintubber Abbey",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.7572227,
+    "lon": -9.2835181
+  },
+  {
+    "hotel_name": "Royal Cork Yacht Club",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8040555,
+    "lon": -8.3064046
+  },
+  {
+    "hotel_name": "Marlfield House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.6686036,
+    "lon": -6.2750964
+  },
+  {
+    "hotel_name": "Riverside Park Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.4975948,
+    "lon": -6.5668524
+  },
+  {
+    "hotel_name": "Sea Church Ballycotton",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8295069,
+    "lon": -8.0111934
+  },
+  {
+    "hotel_name": "Carrickdale Hotel & Spa",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 54.099932,
+    "lon": -6.3604037
+  },
+  {
+    "hotel_name": "Ashford Castle",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.5344314,
+    "lon": -9.2845995
+  },
+  {
+    "hotel_name": "Seaview House Hotel",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.7222075,
+    "lon": -9.4364994
+  },
+  {
+    "hotel_name": "Randles Hotel Killarney",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0538308,
+    "lon": -9.5063937
+  },
+  {
+    "hotel_name": "Clayton Whites Hotel",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3404682,
+    "lon": -6.4640758
+  },
+  {
+    "hotel_name": "Broadhaven Bay Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.2182492,
+    "lon": -9.9771683
+  },
+  {
+    "hotel_name": "Carlton - Atlantic Coast Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.7996485,
+    "lon": -9.5497282
+  },
+  {
+    "hotel_name": "Medieval Mile Museum",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6517989,
+    "lon": -7.2522368
+  },
+  {
+    "hotel_name": "Ballygarry Estate Hotel & Spa",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.2584011,
+    "lon": -9.661531
+  },
+  {
+    "hotel_name": "Cliff at Lyons",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3000326,
+    "lon": -6.5566365
+  },
+  {
+    "hotel_name": "NYX Hotel Dublin Portobello",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3303644,
+    "lon": -6.2656197
+  },
+  {
+    "hotel_name": "Rugby Football Club",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 53.9918811,
+    "lon": -7.3756434
+  },
+  {
+    "hotel_name": "Campbells Pub",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.4500363,
+    "lon": -9.0893596
+  },
+  {
+    "hotel_name": "Carlton Hotel Dublin Airport",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.4152818,
+    "lon": -6.2401794
+  },
+  {
+    "hotel_name": "Trim Castle Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.5537683,
+    "lon": -6.7911451
+  },
+  {
+    "hotel_name": "The Coach House",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.6543217,
+    "lon": -8.1067568
+  },
+  {
+    "hotel_name": "Radisson Blu Hotel Letterkenny",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.9470823,
+    "lon": -7.7333873
+  },
+  {
+    "hotel_name": "Cahernane House Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0433033,
+    "lon": -9.5101756
+  },
+  {
+    "hotel_name": "Mount Druid",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.8254939,
+    "lon": -8.3779703
+  },
+  {
+    "hotel_name": "Casey's Of Baltimore Hotel",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.4847254,
+    "lon": -9.3624414
+  },
+  {
+    "hotel_name": "Celbridge Manor Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3348458,
+    "lon": -6.5574824
+  },
+  {
+    "hotel_name": "The Killeshin Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.0403233,
+    "lon": -7.2719224
+  },
+  {
+    "hotel_name": "The Courtyard Bar",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.6221804,
+    "lon": -8.8884051
+  },
+  {
+    "hotel_name": "The Clarence",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3453516,
+    "lon": -6.2668314
+  },
+  {
+    "hotel_name": "The Dean",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2899425,
+    "lon": -6.1679853
+  },
+  {
+    "hotel_name": "Newtown Castle",
+    "county": "Clare",
+    "country": "Ireland",
+    "lat": 53.1038578,
+    "lon": -9.1692934
+  },
+  {
+    "hotel_name": "Seaview Hotel",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 55.0671684,
+    "lon": -8.2983197
+  },
+  {
+    "hotel_name": "Ravenport Resort",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3956681,
+    "lon": -6.3757679
+  },
+  {
+    "hotel_name": "Browne's - The Venue",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2762933,
+    "lon": -7.4924645
+  },
+  {
+    "hotel_name": "Cashel House Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.4195651,
+    "lon": -9.8079531
+  },
+  {
+    "hotel_name": "Rochestown Park Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8796242,
+    "lon": -8.4253529
+  },
+  {
+    "hotel_name": "Schull Harbour Hotel",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.5272405,
+    "lon": -9.5437879
+  },
+  {
+    "hotel_name": "Cashel Palace Hotel",
+    "county": "Tipperary",
+    "country": "Ireland",
+    "lat": 52.5172921,
+    "lon": -7.8892435
+  },
+  {
+    "hotel_name": "Carton House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3907468,
+    "lon": -6.5667429
+  },
+  {
+    "hotel_name": "Clayton Hotel Sligo",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.2818849,
+    "lon": -8.46123
+  },
+  {
+    "hotel_name": "City Assembly House",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3420116,
+    "lon": -6.2624539
+  },
+  {
+    "hotel_name": "Cartron House",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.8242814,
+    "lon": -8.2878707
+  },
+  {
+    "hotel_name": "Castlerosse Hotel Killarney",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0659194,
+    "lon": -9.5395691
+  },
+  {
+    "hotel_name": "Rathmullan House Hotel",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 55.1006324,
+    "lon": -7.5292901
+  },
+  {
+    "hotel_name": "Ballintubbert Gardens and House",
+    "county": "Laois",
+    "country": "Ireland",
+    "lat": 52.9848267,
+    "lon": -7.0852683
+  },
+  {
+    "hotel_name": "Pier Head Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.4669759,
+    "lon": -8.4476533
+  },
+  {
+    "hotel_name": "Darnley Lodge Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.6216496,
+    "lon": -6.9201909
+  },
+  {
+    "hotel_name": "Allingham Arms Hotel",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.4764151,
+    "lon": -8.2835776
+  },
+  {
+    "hotel_name": "Portlaoise Rugby Club",
+    "county": "Laois",
+    "country": "Ireland",
+    "lat": 53.0109094,
+    "lon": -7.3133782
+  },
+  {
+    "hotel_name": "Óstán Loch Altan",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 55.1217062,
+    "lon": -8.1332115
+  },
+  {
+    "hotel_name": "The Martello",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.2020296,
+    "lon": -6.0982724
+  },
+  {
+    "hotel_name": "The House Restaurant Howth",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3858122,
+    "lon": -6.0652671
+  },
+  {
+    "hotel_name": "Charleville Castle",
+    "county": "Offaly",
+    "country": "Ireland",
+    "lat": 53.2606399,
+    "lon": -7.5287613
+  },
+  {
+    "hotel_name": "The Dolphin Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.6157735,
+    "lon": -10.1985204
+  },
+  {
+    "hotel_name": "Sea Church",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8295069,
+    "lon": -8.0111934
+  },
+  {
+    "hotel_name": "Druid Theatre",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.271015,
+    "lon": -9.053466
+  },
+  {
+    "hotel_name": "Red Cow Moran Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3186707,
+    "lon": -6.364076
+  },
+  {
+    "hotel_name": "Ocean Sands Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.2128863,
+    "lon": -9.0944658
+  },
+  {
+    "hotel_name": "Barberstown Castle",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3224204,
+    "lon": -6.6088829
+  },
+  {
+    "hotel_name": "Avlon House",
+    "county": "Carlow",
+    "country": "Ireland",
+    "lat": 52.8421142,
+    "lon": -6.9170848
+  },
+  {
+    "hotel_name": "Bay View Hotel, Killybegs",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.6369059,
+    "lon": -8.4421753
+  },
+  {
+    "hotel_name": "Dublin City Hall",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3438428,
+    "lon": -6.2671709
+  },
+  {
+    "hotel_name": "Dunmore House Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.5902824,
+    "lon": -8.8675073
+  },
+  {
+    "hotel_name": "Delgany Golf Club",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.130389,
+    "lon": -6.1012664
+  },
+  {
+    "hotel_name": "Naas Racecourse",
+    "county": "Kildare",
+    "country": "Ireland",
+    "lat": 53.2240688,
+    "lon": -6.6408788
+  },
+  {
+    "hotel_name": "Riverbank House Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.3444839,
+    "lon": -6.4550623
+  },
+  {
+    "hotel_name": "Mount Congreve Gardens",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2420856,
+    "lon": -7.2147426
+  },
+  {
+    "hotel_name": "The d Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.334454,
+    "lon": -6.2628403
+  },
+  {
+    "hotel_name": "The Clermont",
+    "county": "Louth",
+    "country": "Ireland",
+    "lat": 53.9631881,
+    "lon": -6.3661208
+  },
+  {
+    "hotel_name": "Cork International Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8521026,
+    "lon": -8.487101
+  },
+  {
+    "hotel_name": "The Ramble Inn",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.7138789,
+    "lon": -8.5008146
+  },
+  {
+    "hotel_name": "Borris House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.5985125,
+    "lon": -6.9265309
+  },
+  {
+    "hotel_name": "Belvedere Hotel",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3551015,
+    "lon": -6.2619024
+  },
+  {
+    "hotel_name": "Abbeyleix Manor Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.9064886,
+    "lon": -7.3526251
+  },
+  {
+    "hotel_name": "The Wicklow Heather",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.0087143,
+    "lon": -6.3007348
+  },
+  {
+    "hotel_name": "The Westin Hotel Dublin",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3456553,
+    "lon": -6.2589016
+  },
+  {
+    "hotel_name": "Cliff House Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.9486307,
+    "lon": -7.7146603
+  },
+  {
+    "hotel_name": "Killua Castle",
+    "county": "Westmeath",
+    "country": "Ireland",
+    "lat": 53.6595748,
+    "lon": -6.9960744
+  },
+  {
+    "hotel_name": "Glenbeigh Hotel",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0582858,
+    "lon": -9.9328731
+  },
+  {
+    "hotel_name": "Hotel Westport",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.8010544,
+    "lon": -9.5280691
+  },
+  {
+    "hotel_name": "Oranmore  Lodge Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2759337,
+    "lon": -8.9307991
+  },
+  {
+    "hotel_name": "An Spailpin Fanach",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8965367,
+    "lon": -8.4764409
+  },
+  {
+    "hotel_name": "Clayton Hotel Cork City",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.89854,
+    "lon": -8.4651422
+  },
+  {
+    "hotel_name": "Butler House",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6488981,
+    "lon": -7.25086
+  },
+  {
+    "hotel_name": "Step House Hotel",
+    "county": "Carlow",
+    "country": "Ireland",
+    "lat": 52.6012066,
+    "lon": -6.9273098
+  },
+  {
+    "hotel_name": "The Nook",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.9560819,
+    "lon": -7.8509545
+  },
+  {
+    "hotel_name": "Slaney Manor",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.3458399,
+    "lon": -6.530879
+  },
+  {
+    "hotel_name": "Fairways Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.9677705,
+    "lon": -6.3874513
+  },
+  {
+    "hotel_name": "The River Lee Hotel",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.895847,
+    "lon": -8.4849485
+  },
+  {
+    "hotel_name": "Markree Castle Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.1741531,
+    "lon": -8.4615512
+  },
+  {
+    "hotel_name": "Menlo Park Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2879382,
+    "lon": -9.0469438
+  },
+  {
+    "hotel_name": "O'Shea's Hotel",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.1598183,
+    "lon": -7.1503878
+  },
+  {
+    "hotel_name": "Ely Wine Bar",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3379697,
+    "lon": -6.2540475
+  },
+  {
+    "hotel_name": "The Leinster",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3487255,
+    "lon": -6.2835513
+  },
+  {
+    "hotel_name": "Belleek Castle Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.133367,
+    "lon": -9.1450393
+  },
+  {
+    "hotel_name": "Foley's of Newbawn",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.343193,
+    "lon": -6.7896837
+  },
+  {
+    "hotel_name": "Killarney Avenue Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0571222,
+    "lon": -9.5059336
+  },
+  {
+    "hotel_name": "The Lodge at Ashford Castle",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.5349454,
+    "lon": -9.2745241
+  },
+  {
+    "hotel_name": "Earl of Desmond Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.2559133,
+    "lon": -9.6357644
+  },
+  {
+    "hotel_name": "Ballykealey House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.7466662,
+    "lon": -6.7801817
+  },
+  {
+    "hotel_name": "O'Mahony's of Watergrasshill",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 52.0115151,
+    "lon": -8.3430028
+  },
+  {
+    "hotel_name": "Glin Castle",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.5697207,
+    "lon": -9.2949911
+  },
+  {
+    "hotel_name": "Tralee Rugby Football Club",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.2514118,
+    "lon": -9.702637
+  },
+  {
+    "hotel_name": "Bansha Castle",
+    "county": "Tipperary",
+    "country": "Ireland",
+    "lat": 52.4492474,
+    "lon": -8.0703245
+  },
+  {
+    "hotel_name": "Coast Rosslare Strand",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.2794935,
+    "lon": -6.3929602
+  },
+  {
+    "hotel_name": "Shoreline Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.478949,
+    "lon": -6.11525
+  },
+  {
+    "hotel_name": "Morrison Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3463286,
+    "lon": -6.2659892
+  },
+  {
+    "hotel_name": "Citywest Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2864206,
+    "lon": -6.4464068
+  },
+  {
+    "hotel_name": "The Old School House",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.2015287,
+    "lon": -6.1027229
+  },
+  {
+    "hotel_name": "The g Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2811426,
+    "lon": -9.0317079
+  },
+  {
+    "hotel_name": "Dromhall Hotel",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0532496,
+    "lon": -9.5062339
+  },
+  {
+    "hotel_name": "HYDE Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2749359,
+    "lon": -9.0463736
+  },
+  {
+    "hotel_name": "The Imperial Hotel Dundalk",
+    "county": "Louth",
+    "country": "Ireland",
+    "lat": 54.0031453,
+    "lon": -6.402103
+  },
+  {
+    "hotel_name": "Castleknock Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3659205,
+    "lon": -6.3891395
+  },
+  {
+    "hotel_name": "Seven Oaks Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.8410631,
+    "lon": -6.9290806
+  },
+  {
+    "hotel_name": "Monkstown Golf Club",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8516531,
+    "lon": -8.3471332
+  },
+  {
+    "hotel_name": "James Griffin Pub",
+    "county": "Meath",
+    "country": "Ireland",
+    "lat": 53.5574848,
+    "lon": -6.7885989
+  },
+  {
+    "hotel_name": "Lady Gregory Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.0612996,
+    "lon": -8.8150929
+  },
+  {
+    "hotel_name": "Woodenbridge Hotel & Lodge",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.831793,
+    "lon": -6.2364664
+  },
+  {
+    "hotel_name": "The Mills Inn",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.9458249,
+    "lon": -9.1704891
+  },
+  {
+    "hotel_name": "Inishowen Gateway Hotel",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 55.1259653,
+    "lon": -7.4570501
+  },
+  {
+    "hotel_name": "Screebe House",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.3839122,
+    "lon": -9.5566695
+  },
+  {
+    "hotel_name": "Gleninchaquin Park",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 51.8014112,
+    "lon": -9.6578481
+  },
+  {
+    "hotel_name": "Cork  Club",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8968814,
+    "lon": -8.3533637
+  },
+  {
+    "hotel_name": "Moycarn Lodge & Marina",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.3207577,
+    "lon": -8.1971862
+  },
+  {
+    "hotel_name": "Slevin's Pub",
+    "county": "Meath",
+    "country": "Ireland",
+    "lat": 53.4192176,
+    "lon": -6.476446
+  },
+  {
+    "hotel_name": "Claregalway Castle",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.3461756,
+    "lon": -8.942039
+  },
+  {
+    "hotel_name": "Glenview Hotel",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.1421115,
+    "lon": -6.127456
+  },
+  {
+    "hotel_name": "Clonabreany House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.7171431,
+    "lon": -7.0627058
+  },
+  {
+    "hotel_name": "Clongowes Wood College",
+    "county": "Kildare",
+    "country": "Ireland",
+    "lat": 53.3109772,
+    "lon": -6.6868509
+  },
+  {
+    "hotel_name": "McWilliam Park Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.7253153,
+    "lon": -8.989985
+  },
+  {
+    "hotel_name": "Carlton Hotel Blanchardstown",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.4195707,
+    "lon": -6.3795644
+  },
+  {
+    "hotel_name": "Galway Bay Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2586987,
+    "lon": -9.0850581
+  },
+  {
+    "hotel_name": "Parknasilla Resort & Spa",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8166136,
+    "lon": -9.8735732
+  },
+  {
+    "hotel_name": "Taphouse",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3251737,
+    "lon": -6.2541582
+  },
+  {
+    "hotel_name": "Slane Castle",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.7095051,
+    "lon": -6.5612818
+  },
+  {
+    "hotel_name": "Dromquinna Manor",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 51.8702538,
+    "lon": -9.6424923
+  },
+  {
+    "hotel_name": "Rothe House & Garden",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6539,
+    "lon": -7.2558923
+  },
+  {
+    "hotel_name": "The Old Bank, Dungarvan",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.0910763,
+    "lon": -7.6208986
+  },
+  {
+    "hotel_name": "West Cork Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.5506648,
+    "lon": -9.2703124
+  },
+  {
+    "hotel_name": "Phoenix Tullamore",
+    "county": "Offaly",
+    "country": "Ireland",
+    "lat": 53.2830618,
+    "lon": -7.5038011
+  },
+  {
+    "hotel_name": "Whitford House Hotel",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3244534,
+    "lon": -6.4999436
+  },
+  {
+    "hotel_name": "Raheen Woods Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.3007268,
+    "lon": -8.7616844
+  },
+  {
+    "hotel_name": "Tyrrelstown House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.4164155,
+    "lon": -6.3947342
+  },
+  {
+    "hotel_name": "Bounty Bar Athlone",
+    "county": "Westmeath",
+    "country": "Ireland",
+    "lat": 53.4347689,
+    "lon": -7.924162
+  },
+  {
+    "hotel_name": "Kelly's Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.2782431,
+    "lon": -6.3895548
+  },
+  {
+    "hotel_name": "Hayfield Manor",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8909787,
+    "lon": -8.4901101
+  },
+  {
+    "hotel_name": "The Sea Rod Inn",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.0698888,
+    "lon": -9.9523745
+  },
+  {
+    "hotel_name": "McSwiggan's Restaurant Galway",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2750815,
+    "lon": -9.0525096
+  },
+  {
+    "hotel_name": "The Spaniard",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.7050715,
+    "lon": -8.5167801
+  },
+  {
+    "hotel_name": "Kate Kearney's Cottage",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0401577,
+    "lon": -9.6314857
+  },
+  {
+    "hotel_name": "Keanes of Curraheen",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.2435143,
+    "lon": -9.7882426
+  },
+  {
+    "hotel_name": "Monk's Lane",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.6437451,
+    "lon": -8.7658872
+  },
+  {
+    "hotel_name": "Blackwater Castle",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 52.1703404,
+    "lon": -8.4601703
+  },
+  {
+    "hotel_name": "Woodhill House",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.2512605,
+    "lon": -8.8710785
+  },
+  {
+    "hotel_name": "The Abbey",
+    "county": "Kildare",
+    "country": "Ireland",
+    "lat": 52.993941,
+    "lon": -6.9824431
+  },
+  {
+    "hotel_name": "The Westbury",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3414585,
+    "lon": -6.2612999
+  },
+  {
+    "hotel_name": "Horetown House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.3163136,
+    "lon": -6.7217333
+  },
+  {
+    "hotel_name": "Tulfarris Hotel & Golf Resort",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.1249889,
+    "lon": -6.5583229
+  },
+  {
+    "hotel_name": "Clayton Hotel Dublin Airport",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.4114246,
+    "lon": -6.2178751
+  },
+  {
+    "hotel_name": "The Dew Drop Inn",
+    "county": "Kildare",
+    "country": "Ireland",
+    "lat": 53.2476554,
+    "lon": -6.5927493
+  },
+  {
+    "hotel_name": "The Abbey Tavern",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3951819,
+    "lon": -6.3112476
+  },
+  {
+    "hotel_name": "Greystones Golf Club",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.1385728,
+    "lon": -6.0725923
+  },
+  {
+    "hotel_name": "Hen's Teeth",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3368614,
+    "lon": -6.2751443
+  },
+  {
+    "hotel_name": "Mount Falcon Estate",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.0568876,
+    "lon": -9.1572007
+  },
+  {
+    "hotel_name": "Talbot Hotel Carlow",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.8463964,
+    "lon": -6.94344
+  },
+  {
+    "hotel_name": "Orlagh House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2614703,
+    "lon": -6.3302104
+  },
+  {
+    "hotel_name": "The Gleneagle Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0439227,
+    "lon": -9.5014985
+  },
+  {
+    "hotel_name": "Kilkenny Castle",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6502876,
+    "lon": -7.2495286
+  },
+  {
+    "hotel_name": "The Grayson",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3383171,
+    "lon": -6.2552559
+  },
+  {
+    "hotel_name": "The Europe Hotel & Resort",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0668392,
+    "lon": -9.5737718
+  },
+  {
+    "hotel_name": "Lansdowne Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3321854,
+    "lon": -6.2414115
+  },
+  {
+    "hotel_name": "Bunratty Castle & Folk Park",
+    "county": "Clare",
+    "country": "Ireland",
+    "lat": 52.6978336,
+    "lon": -8.8121413
+  },
+  {
+    "hotel_name": "Hotel Curracloe",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3934982,
+    "lon": -6.3941907
+  },
+  {
+    "hotel_name": "Killarney Oaks Hotel",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0395388,
+    "lon": -9.494714
+  },
+  {
+    "hotel_name": "Castlecourt Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.8013269,
+    "lon": -9.5186815
+  },
+  {
+    "hotel_name": "Pembroke",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6495241,
+    "lon": -7.2511045
+  },
+  {
+    "hotel_name": "Castle Hotel Macroom",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.9049728,
+    "lon": -8.9584041
+  },
+  {
+    "hotel_name": "Ballyvolane House",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.9164919,
+    "lon": -8.4647204
+  },
+  {
+    "hotel_name": "The Bridge Tavern",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 52.9810203,
+    "lon": -6.0419454
+  },
+  {
+    "hotel_name": "Trinity City Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3452693,
+    "lon": -6.2543624
+  },
+  {
+    "hotel_name": "Vandeleur Walled Garden, Kilrush",
+    "county": "Clare",
+    "country": "Ireland",
+    "lat": 52.6365145,
+    "lon": -9.4728797
+  },
+  {
+    "hotel_name": "The Villager Bar",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.4303283,
+    "lon": -9.0085797
+  },
+  {
+    "hotel_name": "Curraghmore House",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2903125,
+    "lon": -7.3594238
+  },
+  {
+    "hotel_name": "Roundwood House",
+    "county": "Laois",
+    "country": "Ireland",
+    "lat": 53.0273144,
+    "lon": -7.5251585
+  },
+  {
+    "hotel_name": "Randles Hotel",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0538308,
+    "lon": -9.5063937
+  },
+  {
+    "hotel_name": "The Falls Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.9407542,
+    "lon": -9.2984731
+  },
+  {
+    "hotel_name": "CityNorth Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.6390869,
+    "lon": -6.2574735
+  },
+  {
+    "hotel_name": "The Dean Galway",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2771045,
+    "lon": -9.0467735
+  },
+  {
+    "hotel_name": "Kenmare Bay Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8825015,
+    "lon": -9.5911753
+  },
+  {
+    "hotel_name": "The Central",
+    "county": "Meath",
+    "country": "Ireland",
+    "lat": 53.6527158,
+    "lon": -6.6849884
+  },
+  {
+    "hotel_name": "Broderick's Bar",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2307474,
+    "lon": -8.4527579
+  },
+  {
+    "hotel_name": "Óstán Oileán Acla",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.9329492,
+    "lon": -9.9193177
+  },
+  {
+    "hotel_name": "The Belfry Restaurant",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3379978,
+    "lon": -6.4698562
+  },
+  {
+    "hotel_name": "Carrigaline Court Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8160061,
+    "lon": -8.3922489
+  },
+  {
+    "hotel_name": "Annestown House",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.1409845,
+    "lon": -7.275849
+  },
+  {
+    "hotel_name": "Light House Cinema",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3488264,
+    "lon": -6.2790263
+  },
+  {
+    "hotel_name": "Gougane Barra Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8389061,
+    "lon": -9.3167504
+  },
+  {
+    "hotel_name": "Claregalway Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.3437699,
+    "lon": -8.9442615
+  },
+  {
+    "hotel_name": "Meadow Court Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2100294,
+    "lon": -8.6359926
+  },
+  {
+    "hotel_name": "Wicklow Arms",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.1329678,
+    "lon": -6.0920534
+  },
+  {
+    "hotel_name": "Coolbawn Quay",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 53.0065978,
+    "lon": -8.271745
+  },
+  {
+    "hotel_name": "Diep Le Shaker",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3365613,
+    "lon": -6.2516856
+  },
+  {
+    "hotel_name": "Larrigy's",
+    "county": "Westmeath",
+    "country": "Ireland",
+    "lat": 53.3677183,
+    "lon": -7.4969189
+  },
+  {
+    "hotel_name": "Wicklow Heather Restaurant",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.0087143,
+    "lon": -6.3007348
+  },
+  {
+    "hotel_name": "Fitzpatrick's Bar and Restaurant",
+    "county": "Louth",
+    "country": "Ireland",
+    "lat": 54.0086253,
+    "lon": -6.2937574
+  },
+  {
+    "hotel_name": "Mill Park Hotel",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.6592687,
+    "lon": -8.1181
+  },
+  {
+    "hotel_name": "Diamond Coast Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.2046272,
+    "lon": -9.1032012
+  },
+  {
+    "hotel_name": "Grand Hotel Wicklow",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.9800009,
+    "lon": -6.0481721
+  },
+  {
+    "hotel_name": "Ashbourne House Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.5110524,
+    "lon": -6.3965524
+  },
+  {
+    "hotel_name": "Ambledown Cottage",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.3188509,
+    "lon": -6.8945152
+  },
+  {
+    "hotel_name": "Lenehan's Bar",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6570865,
+    "lon": -7.2460847
+  },
+  {
+    "hotel_name": "The Bunker Bar",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.7023819,
+    "lon": -6.2867199
+  },
+  {
+    "hotel_name": "The Betsy Swords",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.4582892,
+    "lon": -6.2207557
+  },
+  {
+    "hotel_name": "Kealy's",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.4250159,
+    "lon": -6.2299679
+  },
+  {
+    "hotel_name": "Malahide Castle and Gardens",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.4449644,
+    "lon": -6.1625912
+  },
+  {
+    "hotel_name": "Blackhall Place",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.34772,
+    "lon": -6.2822302
+  },
+  {
+    "hotel_name": "Joyce's Pub Borris",
+    "county": "Carlow",
+    "country": "Ireland",
+    "lat": 52.6002994,
+    "lon": -6.9239941
+  },
+  {
+    "hotel_name": "Sean's Bar",
+    "county": "Westmeath",
+    "country": "Ireland",
+    "lat": 53.4226707,
+    "lon": -7.942265
+  },
+  {
+    "hotel_name": "Westport Country Lodge",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.7844008,
+    "lon": -9.4634325
+  },
+  {
+    "hotel_name": "Bob's Bar",
+    "county": "Laois",
+    "country": "Ireland",
+    "lat": 52.8467303,
+    "lon": -7.3945916
+  },
+  {
+    "hotel_name": "Charles Fort",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.6963628,
+    "lon": -8.4989104
+  },
+  {
+    "hotel_name": "Lennan's Yard",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3398913,
+    "lon": -6.2585946
+  },
+  {
+    "hotel_name": "Brigit's Garden",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.3859576,
+    "lon": -9.2113605
+  },
+  {
+    "hotel_name": "The Chestnut Birr",
+    "county": "Offaly",
+    "country": "Ireland",
+    "lat": 53.0964395,
+    "lon": -7.9120711
+  },
+  {
+    "hotel_name": "Yeats Society Sligo",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.2720802,
+    "lon": -8.4749585
+  },
+  {
+    "hotel_name": "The Squealing Pig",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.2486605,
+    "lon": -6.9684872
+  },
+  {
+    "hotel_name": "Twin Trees Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.1173514,
+    "lon": -9.1358418
+  },
+  {
+    "hotel_name": "Osprey Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2133934,
+    "lon": -6.6706609
+  },
+  {
+    "hotel_name": "The Westgrove Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.289628,
+    "lon": -6.6814969
+  },
+  {
+    "hotel_name": "Westport House",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.8006884,
+    "lon": -9.5355208
+  },
+  {
+    "hotel_name": "The Driftwood",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.3054113,
+    "lon": -8.5589265
+  },
+  {
+    "hotel_name": "Connolly's of Leap",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.5810066,
+    "lon": -9.143788
+  },
+  {
+    "hotel_name": "Conyngham Arms Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.7086033,
+    "lon": -6.5446918
+  },
+  {
+    "hotel_name": "The Olde Post Inn",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.0801905,
+    "lon": -7.3695322
+  },
+  {
+    "hotel_name": "Talbot Hotel Wexford",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.3355883,
+    "lon": -6.4569531
+  },
+  {
+    "hotel_name": "Copper Coast Geopark Centre",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.1424983,
+    "lon": -7.3649808
+  },
+  {
+    "hotel_name": "No. 1 Pery Square",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.6581607,
+    "lon": -8.6300169
+  },
+  {
+    "hotel_name": "Vaughan's Pub",
+    "county": "Clare",
+    "country": "Ireland",
+    "lat": 52.9900484,
+    "lon": -9.2197255
+  },
+  {
+    "hotel_name": "Crowne Plaza Dublin - Northwood",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.4044698,
+    "lon": -6.2455505
+  },
+  {
+    "hotel_name": "Springhill Court Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.6323417,
+    "lon": -7.2512966
+  },
+  {
+    "hotel_name": "The Lifeboat Inn",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.6338084,
+    "lon": -8.7063176
+  },
+  {
+    "hotel_name": "Preston House",
+    "county": "Laois",
+    "country": "Ireland",
+    "lat": 52.9113105,
+    "lon": -7.3507986
+  },
+  {
+    "hotel_name": "Moone High Cross Inn",
+    "county": "Kildare",
+    "country": "Ireland",
+    "lat": 52.953008,
+    "lon": -6.8399319
+  },
+  {
+    "hotel_name": "Abbey Tavern",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3951819,
+    "lon": -6.3112476
+  },
+  {
+    "hotel_name": "Firgrove Hotel",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 52.2743676,
+    "lon": -8.2721866
+  },
+  {
+    "hotel_name": "Páidí O'Se's Ventry",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.1273977,
+    "lon": -10.3800959
+  },
+  {
+    "hotel_name": "Gloster House",
+    "county": "Offaly",
+    "country": "Ireland",
+    "lat": 53.0025351,
+    "lon": -7.8742551
+  },
+  {
+    "hotel_name": "Trudder Lodge",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 53.073818,
+    "lon": -6.1094624
+  },
+  {
+    "hotel_name": "Roberta's",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3450765,
+    "lon": -6.2673155
+  },
+  {
+    "hotel_name": "Devon Inn Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.3971633,
+    "lon": -9.17409
+  },
+  {
+    "hotel_name": "The Station House Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.5640117,
+    "lon": -6.6670659
+  },
+  {
+    "hotel_name": "Darver Castle",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.9272725,
+    "lon": -6.4666896
+  },
+  {
+    "hotel_name": "Drumhierny Woodland Hideaway",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.9979917,
+    "lon": -8.071311
+  },
+  {
+    "hotel_name": "Mossie's",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.6922303,
+    "lon": -9.6764384
+  },
+  {
+    "hotel_name": "Hampton Hotel",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3258089,
+    "lon": -6.2429235
+  },
+  {
+    "hotel_name": "The Oliver Plunkett",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8982397,
+    "lon": -8.4696061
+  },
+  {
+    "hotel_name": "Ballymaloe House Hotel",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8651739,
+    "lon": -8.0748141
+  },
+  {
+    "hotel_name": "NoLIta",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3424826,
+    "lon": -6.2649052
+  },
+  {
+    "hotel_name": "Trinity College",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3444162,
+    "lon": -6.2589561
+  },
+  {
+    "hotel_name": "Connemara Coast Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2484206,
+    "lon": -9.2011033
+  },
+  {
+    "hotel_name": "Midleton Park Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.915086,
+    "lon": -8.1787009
+  },
+  {
+    "hotel_name": "Luttrellstown Castle",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3734831,
+    "lon": -6.4308463
+  },
+  {
+    "hotel_name": "Pontoon Bridge Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.9889497,
+    "lon": -9.1950631
+  },
+  {
+    "hotel_name": "The Quays",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2711097,
+    "lon": -9.0539571
+  },
+  {
+    "hotel_name": "Drumcoura City",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.0276135,
+    "lon": -7.7519355
+  },
+  {
+    "hotel_name": "Crowne Plaza - Blanchardstown",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.395784,
+    "lon": -6.3902944
+  },
+  {
+    "hotel_name": "Mountain View",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2148622,
+    "lon": -6.6489739
+  },
+  {
+    "hotel_name": "Newcastle House",
+    "county": "Longford",
+    "country": "Ireland",
+    "lat": 53.562385,
+    "lon": -7.72176
+  },
+  {
+    "hotel_name": "Crowne Plaza Dundalk",
+    "county": "Louth",
+    "country": "Ireland",
+    "lat": 53.9804954,
+    "lon": -6.3886856
+  },
+  {
+    "hotel_name": "Medley",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.345974,
+    "lon": -6.2581786
+  },
+  {
+    "hotel_name": "Park Hotel, Dungarvan",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0946315,
+    "lon": -7.6239426
+  },
+  {
+    "hotel_name": "Ferrycarrig Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.3544992,
+    "lon": -6.505887
+  },
+  {
+    "hotel_name": "Ballymagarvey Village",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.6210375,
+    "lon": -6.4893844
+  },
+  {
+    "hotel_name": "The Hilton Dublin Hotel",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3465001,
+    "lon": -6.2659932
+  },
+  {
+    "hotel_name": "Longford Rugby Club",
+    "county": "Longford",
+    "country": "Ireland",
+    "lat": 53.7361059,
+    "lon": -7.8066183
+  },
+  {
+    "hotel_name": "The Maritime Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.6800819,
+    "lon": -9.4572404
+  },
+  {
+    "hotel_name": "Parkview Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.0920564,
+    "lon": -6.1129011
+  },
+  {
+    "hotel_name": "The Mustard Seed",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.4753496,
+    "lon": -8.8669885
+  },
+  {
+    "hotel_name": "The Mayson",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3473101,
+    "lon": -6.2325614
+  },
+  {
+    "hotel_name": "Murphy’s Barn",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.2950238,
+    "lon": -6.5725437
+  },
+  {
+    "hotel_name": "The Landmark Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.9436377,
+    "lon": -8.0927537
+  },
+  {
+    "hotel_name": "Wilton Castle",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.4591529,
+    "lon": -6.613181
+  },
+  {
+    "hotel_name": "The Village Hotel Bettystown",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.7031623,
+    "lon": -6.2569687
+  },
+  {
+    "hotel_name": "Hodson Bay Hotel",
+    "county": "Roscommon",
+    "country": "Ireland",
+    "lat": 53.4681727,
+    "lon": -7.9887869
+  },
+  {
+    "hotel_name": "Lisdonagh House",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.4920754,
+    "lon": -9.0556309
+  },
+  {
+    "hotel_name": "Lee Valley Golf & Country Club",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8842113,
+    "lon": -8.7027468
+  },
+  {
+    "hotel_name": "Galway Bay Golf Resort",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2506387,
+    "lon": -8.9772682
+  },
+  {
+    "hotel_name": "Innishannon House",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.7595285,
+    "lon": -8.6481913
+  },
+  {
+    "hotel_name": "Dylan Hotel",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3337754,
+    "lon": -6.2421633
+  },
+  {
+    "hotel_name": "Granville Hotel",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.2621165,
+    "lon": -7.1121833
+  },
+  {
+    "hotel_name": "Dunbrody Country House Hotel",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.2398509,
+    "lon": -6.9420574
+  },
+  {
+    "hotel_name": "Pigeon House Delgany",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.1328251,
+    "lon": -6.0934321
+  },
+  {
+    "hotel_name": "Hotel Minella",
+    "county": "Tipperary",
+    "country": "Ireland",
+    "lat": 52.3528077,
+    "lon": -7.6843092
+  },
+  {
+    "hotel_name": "The K Club",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3052741,
+    "lon": -6.6195352
+  },
+  {
+    "hotel_name": "Europe Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0668392,
+    "lon": -9.5737718
+  },
+  {
+    "hotel_name": "The Imperial Hotel,",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8971692,
+    "lon": -8.4702285
+  },
+  {
+    "hotel_name": "Imperial Hotel Cork",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8973941,
+    "lon": -8.4703579
+  },
+  {
+    "hotel_name": "Stiúideo Cuan",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2456827,
+    "lon": -9.3005811
+  },
+  {
+    "hotel_name": "The Marker Hotel",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3445404,
+    "lon": -6.2390829
+  },
+  {
+    "hotel_name": "Jacobs on the Mall",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8963966,
+    "lon": -8.4720415
+  },
+  {
+    "hotel_name": "The House Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2703138,
+    "lon": -9.0530073
+  },
+  {
+    "hotel_name": "Westport Plaza Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.8011379,
+    "lon": -9.5201933
+  },
+  {
+    "hotel_name": "Rive Gauche",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6504509,
+    "lon": -7.251336
+  },
+  {
+    "hotel_name": "The Gregory Inn",
+    "county": "Meath",
+    "country": "Ireland",
+    "lat": 53.4143446,
+    "lon": -6.8317726
+  },
+  {
+    "hotel_name": "InterContinental Hotel",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3267436,
+    "lon": -6.2260225
+  },
+  {
+    "hotel_name": "Scholars Townhouse Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.7178471,
+    "lon": -6.348606
+  },
+  {
+    "hotel_name": "Hilton Dublin Airport",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.4040125,
+    "lon": -6.1793195
+  },
+  {
+    "hotel_name": "Paddy Burkes",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2281131,
+    "lon": -8.8808786
+  },
+  {
+    "hotel_name": "Kinsale Yacht club",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.7024409,
+    "lon": -8.5181605
+  },
+  {
+    "hotel_name": "Fade Street Social",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3418336,
+    "lon": -6.2639536
+  },
+  {
+    "hotel_name": "Radisson Blu Hotel,",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.9057671,
+    "lon": -8.3579589
+  },
+  {
+    "hotel_name": "Lafcadio Hearn Japanese Gardens Tramore",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.1639569,
+    "lon": -7.1491297
+  },
+  {
+    "hotel_name": "Woodstock Gardens & Arboretum",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.473766,
+    "lon": -7.0599715
+  },
+  {
+    "hotel_name": "Dunowen House",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.5558755,
+    "lon": -8.9052361
+  },
+  {
+    "hotel_name": "Galway Rowing Club",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2769618,
+    "lon": -9.0543375
+  },
+  {
+    "hotel_name": "Jackie Clarke Collection",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.1147298,
+    "lon": -9.1531026
+  },
+  {
+    "hotel_name": "Fitzgeralds Woodlands House Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.5630862,
+    "lon": -8.7666911
+  },
+  {
+    "hotel_name": "Maldron Hotel Shandon",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.902754,
+    "lon": -8.4747383
+  },
+  {
+    "hotel_name": "Kiltimagh Park Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.8578438,
+    "lon": -8.993367
+  },
+  {
+    "hotel_name": "Marine Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3882908,
+    "lon": -6.1105405
+  },
+  {
+    "hotel_name": "The Woollen Mills",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3467395,
+    "lon": -6.2635284
+  },
+  {
+    "hotel_name": "Fanningstown Castle",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.5475896,
+    "lon": -8.7390858
+  },
+  {
+    "hotel_name": "Harbour Hotel Galway",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2707773,
+    "lon": -9.0474708
+  },
+  {
+    "hotel_name": "Sligo Park Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.2540733,
+    "lon": -8.4704831
+  },
+  {
+    "hotel_name": "Templemore Arms Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.7971582,
+    "lon": -7.8331765
+  },
+  {
+    "hotel_name": "Station House Hotel Letterkenny",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.9457847,
+    "lon": -7.7400888
+  },
+  {
+    "hotel_name": "Lemon & Duke",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.3415562,
+    "lon": -6.2591307
+  },
+  {
+    "hotel_name": "Lottie's Restaurant",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.3217849,
+    "lon": -6.2667197
+  },
+  {
+    "hotel_name": "Salthill Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2583799,
+    "lon": -9.0874768
+  },
+  {
+    "hotel_name": "The Coal Bunker Bar",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.280358,
+    "lon": -6.4629813
+  },
+  {
+    "hotel_name": "Tullamore Court Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2700738,
+    "lon": -7.4926921
+  },
+  {
+    "hotel_name": "Longford Arms Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.7287851,
+    "lon": -7.8015563
+  },
+  {
+    "hotel_name": "Hotel Kilkenny",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.642756,
+    "lon": -7.2611402
+  },
+  {
+    "hotel_name": "The Address",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.9052712,
+    "lon": -8.4592115
+  },
+  {
+    "hotel_name": "The Dunraven Adare",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.5651747,
+    "lon": -8.7869562
+  },
+  {
+    "hotel_name": "Johnstown Castle",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.2940847,
+    "lon": -6.5055234
+  },
+  {
+    "hotel_name": "Roaring Donkey Cobh",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.85378,
+    "lon": -8.2955805
+  },
+  {
+    "hotel_name": "The Twelve Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2514241,
+    "lon": -9.1525058
+  },
+  {
+    "hotel_name": "Fairyhouse Racecourse",
+    "county": "Meath",
+    "country": "Ireland",
+    "lat": 53.4845356,
+    "lon": -6.4736322
+  },
+  {
+    "hotel_name": "Maldron Hotel, Tallaght",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.2840357,
+    "lon": -6.3758166
+  },
+  {
+    "hotel_name": "Fallon & Byrne",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.343118,
+    "lon": -6.2632917
+  },
+  {
+    "hotel_name": "The Heritage Killenard",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.1336529,
+    "lon": -7.151215
+  },
+  {
+    "hotel_name": "Fernhill House Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.6268202,
+    "lon": -8.9079964
+  },
+  {
+    "hotel_name": "The Purty Kitchen",
+    "county": "Dublin",
+    "country": "Ireland",
+    "lat": 53.2951939,
+    "lon": -6.1481504
+  },
+  {
+    "hotel_name": "Westlodge Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.6722279,
+    "lon": -9.4749578
+  },
+  {
+    "hotel_name": "Royal Valentia Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.9261621,
+    "lon": -10.2880104
+  },
+  {
+    "hotel_name": "The Smugglers Inn",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 51.8370786,
+    "lon": -10.1947792
+  },
+  {
+    "hotel_name": "Set Theatre",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.6529622,
+    "lon": -7.2480618
+  },
+  {
+    "hotel_name": "The Strand Inn",
+    "county": "Waterford",
+    "country": "Ireland",
+    "lat": 52.1552056,
+    "lon": -6.9943633
+  },
+  {
+    "hotel_name": "Errigal Country House Hotel",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.0652071,
+    "lon": -7.1025838
+  },
+  {
+    "hotel_name": "Summerhill House Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.1905297,
+    "lon": -6.163798
+  },
+  {
+    "hotel_name": "University of",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.6732581,
+    "lon": -8.5698097
+  },
+  {
+    "hotel_name": "Lawlors Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.0908814,
+    "lon": -7.6217383
+  },
+  {
+    "hotel_name": "Jenkinstown House",
+    "county": "Kilkenny",
+    "country": "Ireland",
+    "lat": 52.7298706,
+    "lon": -7.2901286
+  },
+  {
+    "hotel_name": "MacNean House & Restaurant",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.2912415,
+    "lon": -7.8762701
+  },
+  {
+    "hotel_name": "Leitrim Marina Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.9889406,
+    "lon": -8.0662798
+  },
+  {
+    "hotel_name": "The Avon",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.1610244,
+    "lon": -6.5333088
+  },
+  {
+    "hotel_name": "Lyrath Estate Hotel",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.648336,
+    "lon": -7.1969353
+  },
+  {
+    "hotel_name": "Seventy Seven",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.89771,
+    "lon": -8.4754592
+  },
+  {
+    "hotel_name": "Knockranny House Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.801893,
+    "lon": -9.5088933
+  },
+  {
+    "hotel_name": "Tankardstown House",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 53.7409747,
+    "lon": -6.6108067
+  },
+  {
+    "hotel_name": "Kitty's Bar",
+    "county": "Wexford",
+    "country": "Ireland",
+    "lat": 52.3416716,
+    "lon": -6.4627198
+  },
+  {
+    "hotel_name": "The Western Hotel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 53.2764043,
+    "lon": -9.0477794
+  },
+  {
+    "hotel_name": "Four Seasons Hotel Carlingford",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 54.0393215,
+    "lon": -6.1816666
+  },
+  {
+    "hotel_name": "Ghan House, Carlingford",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 54.0395561,
+    "lon": -6.1842951
+  },
+  {
+    "hotel_name": "The Benwiskin Centre Hostel",
+    "county": "Connacht",
+    "country": "Ireland",
+    "lat": 54.4128359,
+    "lon": -8.3904179
+  },
+  {
+    "hotel_name": "Jacobs Well",
+    "county": "Wicklow",
+    "country": "Ireland",
+    "lat": 52.9326028,
+    "lon": -6.2306844
+  },
+  {
+    "hotel_name": "Longcourt House Hotel",
+    "county": "Munster",
+    "country": "Ireland",
+    "lat": 52.4487367,
+    "lon": -9.0506198
+  },
+  {
+    "hotel_name": "Whites of Wexford",
+    "county": "Leinster",
+    "country": "Ireland",
+    "lat": 52.3404682,
+    "lon": -6.4640758
+  },
+  {
+    "hotel_name": "Springfield Castle",
+    "county": "Limerick",
+    "country": "Ireland",
+    "lat": 52.3520264,
+    "lon": -8.9557314
+  },
+  {
+    "hotel_name": "Westenra Arms Hotel",
+    "county": "Ulster",
+    "country": "Ireland",
+    "lat": 54.2487765,
+    "lon": -6.9690164
+  },
+  {
+    "hotel_name": "Towers Hotel",
+    "county": "Kerry",
+    "country": "Ireland",
+    "lat": 52.0560904,
+    "lon": -9.9402458
+  },
+  {
+    "hotel_name": "Monkstown Bay Sailing Club",
+    "county": "Cork",
+    "country": "Ireland",
+    "lat": 51.8492602,
+    "lon": -8.3320808
   }
 ]
