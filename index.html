@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>Wedding Venues — Ireland & UK</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+html,body,#map{height:100%;width:100%;font-family:'Segoe UI',system-ui,sans-serif}
+#info{position:absolute;top:10px;right:10px;z-index:999;background:rgba(255,255,255,.95);padding:12px 16px;border-radius:10px;box-shadow:0 2px 12px rgba(0,0,0,.15);font-size:13px;max-width:260px;backdrop-filter:blur(4px)}
+#info h2{font-size:15px;margin-bottom:4px;color:#d43}
+#info .stat{font-size:12px;color:#666;margin-bottom:6px}
+#info .ctrls{display:flex;gap:6px;flex-wrap:wrap}
+#info .ctrls button{padding:4px 12px;border:1px solid #ddd;border-radius:6px;background:#fff;cursor:pointer;font-size:12px;transition:.15s}
+#info .ctrls button:hover{background:#f5f5f5;border-color:#bbb}
+#info .ctrls button.active{background:#d43;color:#fff;border-color:#d43}
+.popup h3{font-size:13px;margin-bottom:3px;color:#333}
+.popup .detail{font-size:12px;color:#666;margin:2px 0}
+.popup a{color:#d43;text-decoration:none}
+.popup a:hover{text-decoration:underline}
+.popup .tag{display:inline-block;padding:1px 7px;border-radius:4px;font-size:11px;font-weight:600;margin-bottom:4px}
+.popup .tag.Ireland{background:#e8f5e9;color:#2e7d32}
+.popup .tag.UK{background:#e3f2fd;color:#1565c0}
+.leaflet-popup-content{margin:8px}
+</style>
+</head>
+<body>
+<div id="map"></div>
+<div id="info">
+  <h2>💍 Wedding Venues</h2>
+  <div class="stat" id="stats">Loading...</div>
+  <div class="ctrls">
+    <button class="active" data-filter="all" onclick="filterVenues('all')">All</button>
+    <button data-filter="Ireland" onclick="filterVenues('Ireland')">🇮🇪 Ireland</button>
+    <button data-filter="UK" onclick="filterVenues('UK')">🇬🇧 UK</button>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script>
+let map, markers, venueData, allMarkers = [];
+
+map = L.map('map', { zoomSnap: 0.5, zoomControl: true }).setView([54.0, -5.0], 6.5);
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; <a href="https://osm.org/copyright">OSM</a>',
+  maxZoom: 19
+}).addTo(map);
+
+markers = L.markerClusterGroup({ maxClusterRadius: 50, spiderfyOnMaxZoom: true, showCoverageOnHover: false});
+
+// Load data
+fetch('venues.json').then(r=>r.json()).then(data => {
+  venueData = data;
+  document.getElementById('stats').textContent = `${data.length} venues • ${data.filter(v=>v.country==='Ireland').length} Ireland • ${data.filter(v=>v.country==='UK').length} UK`;
+  
+  data.forEach((v,i) => {
+    const iconColor = v.country === 'Ireland' ? '#2e7d32' : '#1565c0';
+    const icon = L.divIcon({
+      html: `<div style="background:${iconColor};width:12px;height:12px;border-radius:50%;border:2px solid #fff;box-shadow:0 1px 4px rgba(0,0,0,.3)"></div>`,
+      iconSize: [16,16], iconAnchor: [8,8], className: ''
+    });
+    
+    const p = v.email 
+      ? `✉️ <a href="mailto:${v.email}">${v.email}</a>`
+      : 'No email listed';
+    const w = v.hotel_website 
+      ? `<a href="${v.hotel_website}" target="_blank">${v.hotel_website}</a>`
+      : '';
+    
+    const popup = `<div class="popup">
+      <span class="tag ${v.country}">${v.country === 'Ireland' ? '🇮🇪' : '🇬🇧'} ${v.country}</span>
+      <h3>${v.hotel_name}</h3>
+      <div class="detail">📍 ${v.location || v.county || ''}</div>
+      ${w ? `<div class="detail">🌐 ${w}</div>` : ''}
+      <div class="detail">${p}</div>
+    </div>`;
+    
+    const m = L.marker([v.lat, v.lon], {icon}).bindPopup(popup, {maxWidth:300, minWidth:200});
+    m._venueIdx = i;
+    allMarkers.push(m);
+    markers.addLayer(m);
+  });
+  
+  map.addLayer(markers);
+}).catch(e => {
+  document.getElementById('stats').textContent = '⚠️ Error loading data: ' + e.message;
+});
+
+function filterVenues(country) {
+  document.querySelectorAll('.ctrls button').forEach(b => b.classList.remove('active'));
+  document.querySelector(`[data-filter="${country}"]`).classList.add('active');
+  
+  markers.clearLayers();
+  const filtered = country === 'all' ? allMarkers : allMarkers.filter(m => venueData[m._venueIdx].country === country);
+  filtered.forEach(m => markers.addLayer(m));
+  document.getElementById('stats').textContent = `${filtered.length} venues${country!=='all'?` • ${country}`:''}`;
+}
+</script>
+</body>
+</html>
