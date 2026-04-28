@@ -8129,5 +8129,1237 @@
     "country": "Australia",
     "lat": -42.9878719,
     "lon": 147.085393
+  },
+  {
+    "hotel_name": "Newport Vineyards",
+    "country": "USA",
+    "lat": 41.5293214,
+    "lon": -71.2726634,
+    "county": "Rhode Island"
+  },
+  {
+    "hotel_name": "Toledo Zoo",
+    "country": "USA",
+    "lat": 41.6213612,
+    "lon": -83.5829791,
+    "county": "Ohio"
+  },
+  {
+    "hotel_name": "Omni Corpus Christi Hotel",
+    "country": "USA",
+    "lat": 27.8003584,
+    "lon": -97.3922135,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Hancock Hotel",
+    "country": "USA",
+    "lat": 41.0347899,
+    "lon": -83.6497578,
+    "county": "Ohio"
+  },
+  {
+    "hotel_name": "Worcester Art Museum",
+    "country": "USA",
+    "lat": 42.2730336,
+    "lon": -71.801977,
+    "county": "Massachusetts"
+  },
+  {
+    "hotel_name": "Sunny Meade",
+    "country": "USA",
+    "lat": 29.8611518,
+    "lon": -90.0799093,
+    "county": "Louisiana"
+  },
+  {
+    "hotel_name": "The Asbury",
+    "country": "USA",
+    "lat": 40.2236054,
+    "lon": -74.0016736,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Bay View Inn",
+    "country": "USA",
+    "lat": 45.3862642,
+    "lon": -84.9277538,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Mercantile Hall",
+    "country": "USA",
+    "lat": 42.6794919,
+    "lon": -88.2764025,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Inn At Bay Harbor",
+    "country": "USA",
+    "lat": 45.3689442,
+    "lon": -85.0156922,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Taverna Agora",
+    "country": "USA",
+    "lat": 35.7808368,
+    "lon": -78.6444607,
+    "county": "North Carolina"
+  },
+  {
+    "hotel_name": "Bally Spring Inn",
+    "country": "USA",
+    "lat": 40.430797,
+    "lon": -75.626261,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Elm Nashville",
+    "country": "USA",
+    "lat": 36.1511834,
+    "lon": -86.6799194,
+    "county": "Tennessee"
+  },
+  {
+    "hotel_name": "Renaissance Pittsburgh Hotel",
+    "country": "USA",
+    "lat": 40.4437665,
+    "lon": -80.0021311,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Foundry 45",
+    "country": "USA",
+    "lat": 44.1600322,
+    "lon": -88.4766934,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Mount Sequoyah",
+    "country": "USA",
+    "lat": 36.066746,
+    "lon": -94.146037,
+    "county": "Arkansas"
+  },
+  {
+    "hotel_name": "The Sarasota Modern A Tribute Portfolio Hotel",
+    "country": "USA",
+    "lat": 27.3410444,
+    "lon": -82.5449175,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Ironwood",
+    "country": "USA",
+    "lat": 36.9789117,
+    "lon": -86.4103735,
+    "county": "Kentucky"
+  },
+  {
+    "hotel_name": "The Chapel",
+    "country": "USA",
+    "lat": 39.3072837,
+    "lon": -76.7002172,
+    "county": "Maryland"
+  },
+  {
+    "hotel_name": "Cape Horn Estate",
+    "country": "USA",
+    "lat": 45.6145124,
+    "lon": -122.0536385,
+    "county": "Washington"
+  },
+  {
+    "hotel_name": "Location 215",
+    "country": "USA",
+    "lat": 41.2105732,
+    "lon": -75.4038229,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "The Dalmar",
+    "country": "USA",
+    "lat": 26.1250097,
+    "lon": -80.1377347,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Shangri La",
+    "country": "USA",
+    "lat": 40.6437851,
+    "lon": -111.8288894,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "Sparrow Beginnings",
+    "country": "USA",
+    "lat": 36.0609608,
+    "lon": -97.0481102,
+    "county": "Oklahoma"
+  },
+  {
+    "hotel_name": "Skyline Terrace",
+    "country": "USA",
+    "lat": 36.2229068,
+    "lon": -81.6558907,
+    "county": "North Carolina"
+  },
+  {
+    "hotel_name": "Newfields",
+    "country": "USA",
+    "lat": 39.828463,
+    "lon": -86.1882113,
+    "county": "Indiana"
+  },
+  {
+    "hotel_name": "Barn Star Events",
+    "country": "USA",
+    "lat": 35.5558288,
+    "lon": -83.0208898,
+    "county": "North Carolina"
+  },
+  {
+    "hotel_name": "White Shanty Venue",
+    "country": "USA",
+    "lat": 40.2266925,
+    "lon": -111.6643574,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "Industrial Grove",
+    "country": "USA",
+    "lat": 37.1245472,
+    "lon": -92.2834746,
+    "county": "Missouri"
+  },
+  {
+    "hotel_name": "Foster Creek Farm",
+    "country": "USA",
+    "lat": 45.8827761,
+    "lon": -111.1400092,
+    "county": "Montana"
+  },
+  {
+    "hotel_name": "Apiary",
+    "country": "USA",
+    "lat": 38.0539837,
+    "lon": -84.4994952,
+    "county": "Kentucky"
+  },
+  {
+    "hotel_name": "The Lodge At Ironwoods",
+    "country": "USA",
+    "lat": 38.859375,
+    "lon": -94.6248677,
+    "county": "Kansas"
+  },
+  {
+    "hotel_name": "Riviera The",
+    "country": "USA",
+    "lat": 42.5899553,
+    "lon": -88.4362239,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Scenic Hills Country Club",
+    "country": "USA",
+    "lat": 30.5395388,
+    "lon": -87.2301015,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Applejack Pumpkin Patch",
+    "country": "USA",
+    "lat": 37.6778005,
+    "lon": -97.0808571,
+    "county": "Kansas"
+  },
+  {
+    "hotel_name": "Hershey Gardens",
+    "country": "USA",
+    "lat": 40.2979701,
+    "lon": -76.6565113,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Palm Island Resort",
+    "country": "USA",
+    "lat": 26.7923534,
+    "lon": -80.0332237,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Historic Hotel Bethlehem",
+    "country": "USA",
+    "lat": 40.6201695,
+    "lon": -75.3824373,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Arlington Street Church",
+    "country": "USA",
+    "lat": 42.3520176,
+    "lon": -71.0712834,
+    "county": "Massachusetts"
+  },
+  {
+    "hotel_name": "Lake Windsor Country Club",
+    "country": "USA",
+    "lat": 43.2089426,
+    "lon": -89.3520591,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Ocean Reef Club",
+    "country": "USA",
+    "lat": 25.3153606,
+    "lon": -80.2813057,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Tanta Chicago",
+    "country": "USA",
+    "lat": 41.8918045,
+    "lon": -87.6320262,
+    "county": "Illinois"
+  },
+  {
+    "hotel_name": "Bilmar Beach Resort",
+    "country": "USA",
+    "lat": 27.7680831,
+    "lon": -82.7696195,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Magnolia Manor",
+    "country": "USA",
+    "lat": 28.6332311,
+    "lon": -81.4253161,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "The Inn On Madeline Island",
+    "country": "USA",
+    "lat": 46.7734469,
+    "lon": -90.7825659,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Whispering Oaks",
+    "country": "USA",
+    "lat": 41.525645,
+    "lon": -87.4774612,
+    "county": "Indiana"
+  },
+  {
+    "hotel_name": "Cameron Estate Inn",
+    "country": "USA",
+    "lat": 40.1029595,
+    "lon": -76.5678972,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Flagstaff Ranch Golf Club",
+    "country": "USA",
+    "lat": 35.1737981,
+    "lon": -111.7064466,
+    "county": "Arizona"
+  },
+  {
+    "hotel_name": "Hotel Fort Des Moines",
+    "country": "USA",
+    "lat": 41.5844294,
+    "lon": -93.6297405,
+    "county": "Iowa"
+  },
+  {
+    "hotel_name": "Kimpton Cardinal Hotel",
+    "country": "USA",
+    "lat": 36.0986942,
+    "lon": -80.2439462,
+    "county": "North Carolina"
+  },
+  {
+    "hotel_name": "The Allegro Royal Sonesta Hotel Chicago Loop",
+    "country": "USA",
+    "lat": 41.8841092,
+    "lon": -87.6336242,
+    "county": "Illinois"
+  },
+  {
+    "hotel_name": "Dragonfly",
+    "country": "USA",
+    "lat": 41.7796868,
+    "lon": -87.912841,
+    "county": "Illinois"
+  },
+  {
+    "hotel_name": "Teton Cabins",
+    "country": "USA",
+    "lat": 43.8276191,
+    "lon": -110.4150447,
+    "county": "Wyoming"
+  },
+  {
+    "hotel_name": "Arbor Manor",
+    "country": "USA",
+    "lat": 40.6688664,
+    "lon": -111.9619185,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "The Grand Halle",
+    "country": "USA",
+    "lat": 40.3390632,
+    "lon": -78.9270692,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Terradyne Country Club",
+    "country": "USA",
+    "lat": 37.7008381,
+    "lon": -97.1492549,
+    "county": "Kansas"
+  },
+  {
+    "hotel_name": "Kulaniapia Falls",
+    "country": "USA",
+    "lat": 19.7232498,
+    "lon": -155.1365621,
+    "county": "Hawaii"
+  },
+  {
+    "hotel_name": "The Oyster Point Hotel",
+    "country": "USA",
+    "lat": 40.3552464,
+    "lon": -74.0742476,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Oklahoma Hall Of Fame",
+    "country": "USA",
+    "lat": 36.15659,
+    "lon": -95.9907087,
+    "county": "Oklahoma"
+  },
+  {
+    "hotel_name": "The Crawford",
+    "country": "USA",
+    "lat": 41.8433657,
+    "lon": -87.7294994,
+    "county": "Illinois"
+  },
+  {
+    "hotel_name": "Ravenwood Golf Club",
+    "country": "USA",
+    "lat": 42.991338,
+    "lon": -77.392545,
+    "county": "New York"
+  },
+  {
+    "hotel_name": "The Annex",
+    "country": "USA",
+    "lat": 40.7210173,
+    "lon": -73.9972851,
+    "county": "New York"
+  },
+  {
+    "hotel_name": "The Pennsylvanian",
+    "country": "USA",
+    "lat": 39.9546482,
+    "lon": -75.2033727,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Sedona Golf Resort",
+    "country": "USA",
+    "lat": 34.7728501,
+    "lon": -111.7679818,
+    "county": "Arizona"
+  },
+  {
+    "hotel_name": "Landmark Resort",
+    "country": "USA",
+    "lat": 45.0415506,
+    "lon": -87.2990247,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Solitude Mountain Resort",
+    "country": "USA",
+    "lat": 40.6231058,
+    "lon": -111.59763,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "Buca Di Beppo Paradise",
+    "country": "USA",
+    "lat": 36.1149548,
+    "lon": -115.1518537,
+    "county": "Nevada"
+  },
+  {
+    "hotel_name": "Loch Lyme Lodge",
+    "country": "USA",
+    "lat": 43.8255376,
+    "lon": -72.1447931,
+    "county": "New Hampshire"
+  },
+  {
+    "hotel_name": "Mountain Creek",
+    "country": "USA",
+    "lat": 41.177491,
+    "lon": -74.5175729,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Orlando Museum Of Art",
+    "country": "USA",
+    "lat": 28.5727927,
+    "lon": -81.3651566,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Blue Sky Vineyard",
+    "country": "USA",
+    "lat": 37.5770716,
+    "lon": -89.1138244,
+    "county": "Illinois"
+  },
+  {
+    "hotel_name": "Sunflower Lane",
+    "country": "USA",
+    "lat": 43.6655099,
+    "lon": -114.3192143,
+    "county": "Idaho"
+  },
+  {
+    "hotel_name": "Turner Hall Ballroom",
+    "country": "USA",
+    "lat": 43.0438036,
+    "lon": -87.9153707,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Camp Sacajawea",
+    "country": "USA",
+    "lat": 40.2033522,
+    "lon": -74.1986048,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Vail Resort",
+    "country": "USA",
+    "lat": 39.5995318,
+    "lon": -106.3394563,
+    "county": "Colorado"
+  },
+  {
+    "hotel_name": "Stone Chalet",
+    "country": "USA",
+    "lat": 42.268367,
+    "lon": -83.7221465,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Cross Creek Ranch",
+    "country": "USA",
+    "lat": 29.6972102,
+    "lon": -95.8696999,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Wagnalls Memorial",
+    "country": "USA",
+    "lat": 39.8022859,
+    "lon": -82.8048958,
+    "county": "Ohio"
+  },
+  {
+    "hotel_name": "Middlebury Inn",
+    "country": "USA",
+    "lat": 44.0144546,
+    "lon": -73.166171,
+    "county": "Vermont"
+  },
+  {
+    "hotel_name": "Maritime Parc",
+    "country": "USA",
+    "lat": 40.7095425,
+    "lon": -74.0416908,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Sandhill Crane Golf Club",
+    "country": "USA",
+    "lat": 26.818347,
+    "lon": -80.2187888,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Birch",
+    "country": "USA",
+    "lat": 45.3444539,
+    "lon": -89.6108431,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Bear Trap Dunes",
+    "country": "USA",
+    "lat": 38.535417,
+    "lon": -75.107736,
+    "county": "Delaware"
+  },
+  {
+    "hotel_name": "Andaz 5Th Avenue",
+    "country": "USA",
+    "lat": 40.7528315,
+    "lon": -73.9810928,
+    "county": "New York"
+  },
+  {
+    "hotel_name": "Vista West Ranch",
+    "country": "USA",
+    "lat": 31.87694,
+    "lon": -102.3880285,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Alpine Art Center",
+    "country": "USA",
+    "lat": 40.4475394,
+    "lon": -111.7808784,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "Hotel Alex Johnson",
+    "country": "USA",
+    "lat": 44.0803875,
+    "lon": -103.2275434,
+    "county": "South Dakota"
+  },
+  {
+    "hotel_name": "Red Barn Berry Farm",
+    "country": "USA",
+    "lat": 46.587284,
+    "lon": -97.0089295,
+    "county": "North Dakota"
+  },
+  {
+    "hotel_name": "Mystic Aquarium",
+    "country": "USA",
+    "lat": 41.3734072,
+    "lon": -71.9519262,
+    "county": "Connecticut"
+  },
+  {
+    "hotel_name": "Tunxis Country Club",
+    "country": "USA",
+    "lat": 41.7381741,
+    "lon": -72.8297782,
+    "county": "Connecticut"
+  },
+  {
+    "hotel_name": "Venue 311",
+    "country": "USA",
+    "lat": 33.2002462,
+    "lon": -97.1406102,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "The Bridge Cafe And Grill",
+    "country": "USA",
+    "lat": 40.6476412,
+    "lon": -111.498769,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "Garden Theater",
+    "country": "USA",
+    "lat": 42.3498283,
+    "lon": -83.0597815,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Orchard Ridge Country Club",
+    "country": "USA",
+    "lat": 41.0110554,
+    "lon": -85.1963118,
+    "county": "Indiana"
+  },
+  {
+    "hotel_name": "National Museum Of The Mighty Eighth Air Force",
+    "country": "USA",
+    "lat": 32.1156599,
+    "lon": -81.23637,
+    "county": "Georgia"
+  },
+  {
+    "hotel_name": "Rockford City Market",
+    "country": "USA",
+    "lat": 42.2695041,
+    "lon": -89.0899811,
+    "county": "Illinois"
+  },
+  {
+    "hotel_name": "Old Glory Ranch",
+    "country": "USA",
+    "lat": 29.4675239,
+    "lon": -98.7401779,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Hope Lodge Venue",
+    "country": "USA",
+    "lat": 41.7194641,
+    "lon": -71.874471,
+    "county": "Connecticut"
+  },
+  {
+    "hotel_name": "Estes Park Resort",
+    "country": "USA",
+    "lat": 40.3777573,
+    "lon": -105.493665,
+    "county": "Colorado"
+  },
+  {
+    "hotel_name": "Villa Parker",
+    "country": "USA",
+    "lat": 39.5209002,
+    "lon": -104.7517716,
+    "county": "Colorado"
+  },
+  {
+    "hotel_name": "The Cliffs Resort",
+    "country": "USA",
+    "lat": 32.8505829,
+    "lon": -98.4366646,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Environmental Services Building",
+    "country": "USA",
+    "lat": 47.1976476,
+    "lon": -122.5686178,
+    "county": "Washington"
+  },
+  {
+    "hotel_name": "Dunham Hills Golf Club",
+    "country": "USA",
+    "lat": 42.6535886,
+    "lon": -83.6904313,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Vast",
+    "country": "USA",
+    "lat": 36.1330166,
+    "lon": -95.9624912,
+    "county": "Oklahoma"
+  },
+  {
+    "hotel_name": "Seabrook Island Club",
+    "country": "USA",
+    "lat": 32.5601794,
+    "lon": -80.1760473,
+    "county": "South Carolina"
+  },
+  {
+    "hotel_name": "The Great Barn",
+    "country": "USA",
+    "lat": 42.5366571,
+    "lon": -71.5558993,
+    "county": "Massachusetts"
+  },
+  {
+    "hotel_name": "Jw Marriott New Orleans",
+    "country": "USA",
+    "lat": 29.9523523,
+    "lon": -90.0690208,
+    "county": "Louisiana"
+  },
+  {
+    "hotel_name": "The Queensbury Hotel",
+    "country": "USA",
+    "lat": 43.3119851,
+    "lon": -73.6442048,
+    "county": "New York"
+  },
+  {
+    "hotel_name": "Renaissance Dallas Addison",
+    "country": "USA",
+    "lat": 32.9568608,
+    "lon": -96.822996,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "The George",
+    "country": "USA",
+    "lat": 30.6259193,
+    "lon": -96.3394541,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Highpointe Estate",
+    "country": "USA",
+    "lat": 30.7006157,
+    "lon": -97.8457121,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Fero Vineyards Winery",
+    "country": "USA",
+    "lat": 40.9958495,
+    "lon": -76.8871676,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Rockford Country Club",
+    "country": "USA",
+    "lat": 42.3052628,
+    "lon": -89.0726049,
+    "county": "Illinois"
+  },
+  {
+    "hotel_name": "Gathering Place",
+    "country": "USA",
+    "lat": 40.4264281,
+    "lon": -86.9232131,
+    "county": "Indiana"
+  },
+  {
+    "hotel_name": "1757 Golf Club",
+    "country": "USA",
+    "lat": 39.013498,
+    "lon": -77.4466832,
+    "county": "Virginia"
+  },
+  {
+    "hotel_name": "The Chapel On Sycamore",
+    "country": "USA",
+    "lat": 33.7748859,
+    "lon": -84.2922842,
+    "county": "Georgia"
+  },
+  {
+    "hotel_name": "Macray Harbor",
+    "country": "USA",
+    "lat": 42.6056333,
+    "lon": -82.8029712,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Molly Pitcher Inn",
+    "country": "USA",
+    "lat": 40.3529747,
+    "lon": -74.0730423,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Minneapolis City Hall",
+    "country": "USA",
+    "lat": 44.9773133,
+    "lon": -93.2650683,
+    "county": "Minnesota"
+  },
+  {
+    "hotel_name": "Baltimore Museum Of Art",
+    "country": "USA",
+    "lat": 39.3258182,
+    "lon": -76.6197227,
+    "county": "Maryland"
+  },
+  {
+    "hotel_name": "Oak Tree Manor",
+    "country": "USA",
+    "lat": 29.6377342,
+    "lon": -95.5068919,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Venue 1235",
+    "country": "USA",
+    "lat": 39.0335038,
+    "lon": -94.69141,
+    "county": "Kansas"
+  },
+  {
+    "hotel_name": "Caribe Resort",
+    "country": "USA",
+    "lat": 30.2792906,
+    "lon": -87.5461948,
+    "county": "Alabama"
+  },
+  {
+    "hotel_name": "The River House",
+    "country": "USA",
+    "lat": 32.8022434,
+    "lon": -79.9660997,
+    "county": "South Carolina"
+  },
+  {
+    "hotel_name": "7L Farms",
+    "country": "USA",
+    "lat": 32.9056794,
+    "lon": -90.2944045,
+    "county": "Mississippi"
+  },
+  {
+    "hotel_name": "Eight Ten Ranch",
+    "country": "USA",
+    "lat": 35.7500778,
+    "lon": -95.3217792,
+    "county": "Oklahoma"
+  },
+  {
+    "hotel_name": "Sunday In Brooklyn",
+    "country": "USA",
+    "lat": 40.7141954,
+    "lon": -73.9653382,
+    "county": "New York"
+  },
+  {
+    "hotel_name": "High Cotton",
+    "country": "USA",
+    "lat": 32.7798572,
+    "lon": -79.9272319,
+    "county": "South Carolina"
+  },
+  {
+    "hotel_name": "Cooper Spur Mountain Resort",
+    "country": "USA",
+    "lat": 45.4256641,
+    "lon": -121.5908747,
+    "county": "Oregon"
+  },
+  {
+    "hotel_name": "Park City Mountain Resort",
+    "country": "USA",
+    "lat": 40.654146,
+    "lon": -111.562396,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "Moody Gardens",
+    "country": "USA",
+    "lat": 29.2746443,
+    "lon": -94.8524088,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "French Lick Resort",
+    "country": "USA",
+    "lat": 38.5542522,
+    "lon": -86.6190282,
+    "county": "Indiana"
+  },
+  {
+    "hotel_name": "Roostertail",
+    "country": "USA",
+    "lat": 42.3563789,
+    "lon": -82.9735944,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Cactus Moon Lodge",
+    "country": "USA",
+    "lat": 30.204692,
+    "lon": -98.1868378,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Hewing Hotel",
+    "country": "USA",
+    "lat": 44.9849546,
+    "lon": -93.2725199,
+    "county": "Minnesota"
+  },
+  {
+    "hotel_name": "The Cedars Ranch",
+    "country": "USA",
+    "lat": 30.3490072,
+    "lon": -95.8639159,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Audubon House Tropical Gardens",
+    "country": "USA",
+    "lat": 24.5583308,
+    "lon": -81.8060812,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "American Theater",
+    "country": "USA",
+    "lat": 32.7890329,
+    "lon": -79.9379923,
+    "county": "South Carolina"
+  },
+  {
+    "hotel_name": "The Edgewater",
+    "country": "USA",
+    "lat": 43.052815,
+    "lon": -87.8898158,
+    "county": "Wisconsin"
+  },
+  {
+    "hotel_name": "Fort Adams",
+    "country": "USA",
+    "lat": 41.4785893,
+    "lon": -71.3379622,
+    "county": "Rhode Island"
+  },
+  {
+    "hotel_name": "Stone Mountain Arts Center",
+    "country": "USA",
+    "lat": 43.9078164,
+    "lon": -70.9445905,
+    "county": "Maine"
+  },
+  {
+    "hotel_name": "Upper Montclair Country Club",
+    "country": "USA",
+    "lat": 40.8435818,
+    "lon": -74.1742626,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "The Lake House",
+    "country": "USA",
+    "lat": 43.2410254,
+    "lon": -86.2555875,
+    "county": "Michigan"
+  },
+  {
+    "hotel_name": "Jackson Lake Lodge",
+    "country": "USA",
+    "lat": 43.8772632,
+    "lon": -110.5775108,
+    "county": "Wyoming"
+  },
+  {
+    "hotel_name": "Meditations Weddings",
+    "country": "USA",
+    "lat": 36.1336745,
+    "lon": -97.1216295,
+    "county": "Oklahoma"
+  },
+  {
+    "hotel_name": "The Addison",
+    "country": "USA",
+    "lat": 25.6006544,
+    "lon": -80.350697,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Hilton Sedona Resort At Bell Rock",
+    "country": "USA",
+    "lat": 34.7746894,
+    "lon": -111.766691,
+    "county": "Arizona"
+  },
+  {
+    "hotel_name": "Bridgewater Manor",
+    "country": "USA",
+    "lat": 40.6400036,
+    "lon": -74.6367269,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Millcreek Inn",
+    "country": "USA",
+    "lat": 40.6980102,
+    "lon": -111.740981,
+    "county": "Utah"
+  },
+  {
+    "hotel_name": "The St Vrain",
+    "country": "USA",
+    "lat": 40.1638149,
+    "lon": -105.1035841,
+    "county": "Colorado"
+  },
+  {
+    "hotel_name": "Dresser Mansion",
+    "country": "USA",
+    "lat": 36.1363286,
+    "lon": -95.9915108,
+    "county": "Oklahoma"
+  },
+  {
+    "hotel_name": "Pelican Brewing Company Siletz Bay",
+    "country": "USA",
+    "lat": 44.921554,
+    "lon": -124.0143147,
+    "county": "Oregon"
+  },
+  {
+    "hotel_name": "Mount Airy Casino Resort",
+    "country": "USA",
+    "lat": 41.1132431,
+    "lon": -75.3217571,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "The Elm Estate",
+    "country": "USA",
+    "lat": 39.5239426,
+    "lon": -119.8319452,
+    "county": "Nevada"
+  },
+  {
+    "hotel_name": "Salem Waterfront Hotel Suites",
+    "country": "USA",
+    "lat": 42.5203248,
+    "lon": -70.8893019,
+    "county": "Massachusetts"
+  },
+  {
+    "hotel_name": "Brotherhood Winery",
+    "country": "USA",
+    "lat": 41.4326846,
+    "lon": -74.1627038,
+    "county": "New York"
+  },
+  {
+    "hotel_name": "Toms River Yacht Club",
+    "country": "USA",
+    "lat": 39.9455136,
+    "lon": -74.1589163,
+    "county": "New Jersey"
+  },
+  {
+    "hotel_name": "Marlsgate",
+    "country": "USA",
+    "lat": 35.1228887,
+    "lon": -92.4413464,
+    "county": "Arkansas"
+  },
+  {
+    "hotel_name": "Gadsden House",
+    "country": "USA",
+    "lat": 32.7875517,
+    "lon": -79.929465,
+    "county": "South Carolina"
+  },
+  {
+    "hotel_name": "Mission Inn Resort",
+    "country": "USA",
+    "lat": 28.724808,
+    "lon": -81.782125,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Cheyenne Mountain Resort",
+    "country": "USA",
+    "lat": 38.7831077,
+    "lon": -104.823878,
+    "county": "Colorado"
+  },
+  {
+    "hotel_name": "Bok Tower Gardens",
+    "country": "USA",
+    "lat": 27.9360337,
+    "lon": -81.5758161,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Orlando Museum Of Art",
+    "country": "USA",
+    "lat": 28.5727927,
+    "lon": -81.3651566,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Costley Mill Park",
+    "country": "USA",
+    "lat": 33.7085749,
+    "lon": -83.927486,
+    "county": "Georgia"
+  },
+  {
+    "hotel_name": "Hilton Ocala",
+    "country": "USA",
+    "lat": 29.1489663,
+    "lon": -82.1834963,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Hotel Gettysburg",
+    "country": "USA",
+    "lat": 39.8313698,
+    "lon": -77.2308724,
+    "county": "Pennsylvania"
+  },
+  {
+    "hotel_name": "Northriver Yacht Club",
+    "country": "USA",
+    "lat": 33.29685,
+    "lon": -87.5000064,
+    "county": "Alabama"
+  },
+  {
+    "hotel_name": "Indian Head Resort",
+    "country": "USA",
+    "lat": 44.0844153,
+    "lon": -71.683929,
+    "county": "New Hampshire"
+  },
+  {
+    "hotel_name": "Shenandoah Woods",
+    "country": "USA",
+    "lat": 38.651333,
+    "lon": -77.4637526,
+    "county": "Virginia"
+  },
+  {
+    "hotel_name": "Trail Creek Ranch",
+    "country": "USA",
+    "lat": 43.4898425,
+    "lon": -110.9066035,
+    "county": "Wyoming"
+  },
+  {
+    "hotel_name": "World Equestrian Center",
+    "country": "USA",
+    "lat": 29.2002859,
+    "lon": -82.2598612,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "Cibolo Creek Ranch",
+    "country": "USA",
+    "lat": 29.8620151,
+    "lon": -104.33395,
+    "county": "Texas"
+  },
+  {
+    "hotel_name": "Felicity",
+    "country": "USA",
+    "lat": 29.2841146,
+    "lon": -90.3906383,
+    "county": "Louisiana"
+  },
+  {
+    "hotel_name": "Northern Pacific Center",
+    "country": "USA",
+    "lat": 46.3567422,
+    "lon": -94.1875132,
+    "county": "Minnesota"
+  },
+  {
+    "hotel_name": "Funky Buddha Brewery",
+    "country": "USA",
+    "lat": 26.174347,
+    "lon": -80.1311366,
+    "county": "Florida"
+  },
+  {
+    "hotel_name": "River Bridge Event Center",
+    "country": "USA",
+    "lat": 40.0952407,
+    "lon": -111.6540086,
+    "county": "Utah"
   }
 ]
